@@ -1,0 +1,62 @@
+# 线性代数
+
+Linear Algebra · 学习阶段 1
+
+把向量、线性变换和基底作为统一语言。矩阵是线性映射在特定基底下的表示。
+
+## 前置知识
+
+先预习本页概念和术语。
+
+## 章节知识树
+
+1. 线性方程组与高斯消元
+2. 行列式与可逆性
+3. 线性相关、基与维数
+4. 四个基本子空间
+5. 正交投影与最小二乘
+6. 特征值、对角化与二次型
+
+## 公式与推导
+
+最小二乘残差 $r=b-Ax$ 应与 $A$ 的列空间正交。于是 $A^\mathsf{T}(b-Ax)=0$。当列满秩时，方程 $A^\mathsf{T}Ax=A^\mathsf{T}b$ 具有唯一解。
+
+## 例题
+
+对数据 $(0,1),(1,3),(2,5)$ 拟合 $y=a+bx$，列空间包含观测向量，解为 $a=1,b=2$，残差为零。
+
+## 习题
+
+求矩阵 $\begin{pmatrix}2&1\\1&2\end{pmatrix}$ 的正交特征基。核对特征值为 $3$ 与 $1$。
+
+## 应用、实验与验证
+
+用矩阵模态分解求耦合振子，使用正交投影拟合实验数据。
+
+用线性代数程序对比直接解正规方程与 QR 分解的残差。
+
+## 教材索引
+
+- 教材 · [工程数学 线性代数](https://xuanshu.hep.com.cn/front/book/findBookProducts?keyProjectId=6a8dcae7e4b0af79ada1a429&orderType=1&sortType=2)
+- 教材 · [Linear Algebra](https://jheffero.w3.uvm.edu/linearalgebra/index.html) · [本地文件](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0-%E8%B5%AB%E5%BC%97%E4%BC%A6-%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)
+- 习题 · [Answers to Exercises for Linear Algebra](https://jheffero.w3.uvm.edu/linearalgebra/index.html) · [本地文件](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E4%B9%A0%E9%A2%98%E8%AF%A6%E8%A7%A3-%E8%B5%AB%E5%BC%97%E4%BC%A6-%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)
+- 开放课程 · [18.06 Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+- 开放课程 · [线性代数](https://www.icourse163.org/course/TONGJI-481001)
+
+## 参考来源
+
+- [参考资料 1](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
+
+知识树、推导和题目为 AI 辅助编写的自学内容，专业事实可回查参考资料。
+
+## 复习与拓展
+
+- 复习。从几何角度区分正交、独立、可逆和可对角化。
+- 拓展。学习奇异值分解、条件数和低秩近似。
+
+## 个人笔记、错题与进度
+
+在此记录自己的推导、实验数据及错因。全库进度见 [学习进度](../../%E5%AD%A6%E4%B9%A0%E8%BF%9B%E5%BA%A6.md)。
+
+| 日期 | 内容 | 证据或改正结果 |
+| --- | --- | --- |

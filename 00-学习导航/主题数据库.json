@@ -1,0 +1,1046 @@
+{
+  "schema_version": 1,
+  "courses": [
+    {
+      "id": "高等数学",
+      "name_zh": "高等数学",
+      "name_en": "Calculus",
+      "stage": 1,
+      "directory": "01-数学基础/高等数学",
+      "prerequisites": [],
+      "resource_ids": [
+        "cn-calculus",
+        "cn-calculus-ex",
+        "os-calculus-volume-1",
+        "os-calculus-volume-2",
+        "os-calculus-volume-3",
+        "mit1801",
+        "mit1802",
+        "mit1803",
+        "mit1801-ex",
+        "mooc-calculus1",
+        "mooc-calculus2"
+      ]
+    },
+    {
+      "id": "概率论与数理统计",
+      "name_zh": "概率论与数理统计",
+      "name_en": "Probability and Mathematical Statistics",
+      "stage": 1,
+      "directory": "01-数学基础/概率论与数理统计",
+      "prerequisites": [
+        "高等数学"
+      ],
+      "resource_ids": [
+        "cn-prob",
+        "mit1805",
+        "mit1805-ex",
+        "mooc-prob",
+        "openintro",
+        "openintro-ex"
+      ]
+    },
+    {
+      "id": "线性代数",
+      "name_zh": "线性代数",
+      "name_en": "Linear Algebra",
+      "stage": 1,
+      "directory": "01-数学基础/线性代数",
+      "prerequisites": [],
+      "resource_ids": [
+        "cn-linear",
+        "heff",
+        "heff-answers",
+        "mit1806",
+        "mooc-linear"
+      ]
+    },
+    {
+      "id": "数学物理方法",
+      "name_zh": "数学物理方法",
+      "name_en": "Methods of Mathematical Physics",
+      "stage": 2,
+      "directory": "01-数学基础/数学物理方法",
+      "prerequisites": [
+        "高等数学",
+        "线性代数"
+      ],
+      "resource_ids": [
+        "cn-mathphys",
+        "os-calculus-volume-2",
+        "mit1804",
+        "mit1803",
+        "mit1804-ex",
+        "mooc-mathphys"
+      ]
+    },
+    {
+      "id": "应用物理导论",
+      "name_zh": "应用物理导论",
+      "name_en": "Introduction to Applied Physics",
+      "stage": 1,
+      "directory": "02-普通物理学/应用物理导论",
+      "prerequisites": [],
+      "resource_ids": [
+        "os-university-physics-volume-1",
+        "cern-particles"
+      ]
+    },
+    {
+      "id": "力学",
+      "name_zh": "力学",
+      "name_en": "Mechanics",
+      "stage": 1,
+      "directory": "02-普通物理学/力学",
+      "prerequisites": [],
+      "resource_ids": [
+        "cn-mech",
+        "cn-mech-ex",
+        "os-university-physics-volume-1",
+        "mit801",
+        "mit801-ex",
+        "mooc-mech-heat",
+        "tong-fluid",
+        "phet"
+      ]
+    },
+    {
+      "id": "热学",
+      "name_zh": "热学",
+      "name_en": "Thermal Physics",
+      "stage": 1,
+      "directory": "02-普通物理学/热学",
+      "prerequisites": [
+        "力学"
+      ],
+      "resource_ids": [
+        "cn-heat",
+        "os-university-physics-volume-2",
+        "mit8044",
+        "mit8044-ex",
+        "mooc-mech-heat",
+        "phet"
+      ]
+    },
+    {
+      "id": "电磁学",
+      "name_zh": "电磁学",
+      "name_en": "Electricity and Magnetism",
+      "stage": 1,
+      "directory": "02-普通物理学/电磁学",
+      "prerequisites": [
+        "力学"
+      ],
+      "resource_ids": [
+        "cn-em",
+        "os-university-physics-volume-2",
+        "mit802",
+        "mit802-ex",
+        "mooc-em-optics",
+        "tong-em",
+        "phet"
+      ]
+    },
+    {
+      "id": "光学",
+      "name_zh": "光学",
+      "name_en": "Optics",
+      "stage": 2,
+      "directory": "02-普通物理学/光学",
+      "prerequisites": [
+        "力学"
+      ],
+      "resource_ids": [
+        "cn-optics",
+        "os-university-physics-volume-3",
+        "mit803",
+        "mit271",
+        "mit803-ex",
+        "mit271-ex",
+        "mooc-em-optics",
+        "phet",
+        "libretexts-wave"
+      ]
+    },
+    {
+      "id": "原子物理学",
+      "name_zh": "原子物理学",
+      "name_en": "Atomic Physics",
+      "stage": 2,
+      "directory": "02-普通物理学/原子物理学",
+      "prerequisites": [
+        "力学",
+        "电磁学"
+      ],
+      "resource_ids": [
+        "cn-atom",
+        "os-university-physics-volume-3",
+        "mit804",
+        "mit804-ex",
+        "mooc-atom",
+        "nist-asd"
+      ]
+    },
+    {
+      "id": "理论力学",
+      "name_zh": "理论力学",
+      "name_en": "Theoretical Mechanics",
+      "stage": 2,
+      "directory": "03-四大力学/理论力学",
+      "prerequisites": [
+        "力学",
+        "高等数学",
+        "线性代数"
+      ],
+      "resource_ids": [
+        "cn-theomech",
+        "mit809",
+        "mit809-pset",
+        "mit809-course",
+        "tong-classical"
+      ]
+    },
+    {
+      "id": "热力学与统计物理",
+      "name_zh": "热力学与统计物理",
+      "name_en": "Thermodynamics and Statistical Physics",
+      "stage": 2,
+      "directory": "03-四大力学/热力学与统计物理",
+      "prerequisites": [
+        "热学",
+        "概率论与数理统计",
+        "高等数学"
+      ],
+      "resource_ids": [
+        "cn-statmech",
+        "os-university-physics-volume-2",
+        "mit8044-l1",
+        "mit8044",
+        "mit8044-ex",
+        "mooc-stat",
+        "tong-stat"
+      ]
+    },
+    {
+      "id": "量子力学",
+      "name_zh": "量子力学",
+      "name_en": "Quantum Mechanics",
+      "stage": 3,
+      "directory": "03-四大力学/量子力学",
+      "prerequisites": [
+        "线性代数",
+        "高等数学",
+        "数学物理方法",
+        "原子物理学"
+      ],
+      "resource_ids": [
+        "cn-quantum",
+        "os-university-physics-volume-3",
+        "mit804",
+        "mit805",
+        "mit804-ex",
+        "mooc-quantum",
+        "tong-quantum"
+      ]
+    },
+    {
+      "id": "电动力学",
+      "name_zh": "电动力学",
+      "name_en": "Electrodynamics",
+      "stage": 3,
+      "directory": "03-四大力学/电动力学",
+      "prerequisites": [
+        "电磁学",
+        "高等数学",
+        "数学物理方法"
+      ],
+      "resource_ids": [
+        "cn-ed",
+        "os-calculus-volume-3",
+        "mit807",
+        "mit807-ex",
+        "mooc-ed",
+        "tong-em",
+        "libretexts-likharev"
+      ]
+    },
+    {
+      "id": "固体物理",
+      "name_zh": "固体物理",
+      "name_en": "Solid State Physics",
+      "stage": 3,
+      "directory": "04-固体与材料物理/固体物理",
+      "prerequisites": [
+        "量子力学",
+        "热力学与统计物理",
+        "线性代数"
+      ],
+      "resource_ids": [
+        "cn-solid",
+        "os-university-physics-volume-3",
+        "mit8231",
+        "mit8231-ex",
+        "mooc-solid",
+        "tong-solid"
+      ]
+    },
+    {
+      "id": "材料物理性能",
+      "name_zh": "材料物理性能",
+      "name_en": "Physical Properties of Materials",
+      "stage": 3,
+      "directory": "04-固体与材料物理/材料物理性能",
+      "prerequisites": [
+        "固体物理",
+        "电磁学",
+        "热学"
+      ],
+      "resource_ids": [
+        "cn-solid",
+        "mit8231",
+        "mit3012",
+        "tong-solid",
+        "libretexts-chem"
+      ]
+    },
+    {
+      "id": "材料物理化学",
+      "name_zh": "材料物理化学",
+      "name_en": "Physical Chemistry of Materials",
+      "stage": 3,
+      "directory": "04-固体与材料物理/材料物理化学",
+      "prerequisites": [
+        "热学",
+        "高等数学"
+      ],
+      "resource_ids": [
+        "mit3012",
+        "libretexts-chem"
+      ]
+    },
+    {
+      "id": "半导体物理",
+      "name_zh": "半导体物理",
+      "name_en": "Semiconductor Physics",
+      "stage": 3,
+      "directory": "04-固体与材料物理/半导体物理",
+      "prerequisites": [
+        "量子力学",
+        "热学"
+      ],
+      "resource_ids": [
+        "mit8231",
+        "mit6012",
+        "mit8231-ex",
+        "mit6012-ex"
+      ]
+    },
+    {
+      "id": "纳米科学与技术",
+      "name_zh": "纳米科学与技术",
+      "name_en": "Nanoscience and Nanotechnology",
+      "stage": 4,
+      "directory": "04-固体与材料物理/纳米科学与技术",
+      "prerequisites": [
+        "量子力学",
+        "材料物理化学"
+      ],
+      "resource_ids": [
+        "mit3012"
+      ]
+    },
+    {
+      "id": "激光原理与应用",
+      "name_zh": "激光原理与应用",
+      "name_en": "Laser Physics and Applications",
+      "stage": 3,
+      "directory": "05-光学与光电技术/激光原理与应用",
+      "prerequisites": [
+        "光学",
+        "原子物理学"
+      ],
+      "resource_ids": [
+        "cn-laser",
+        "mit631",
+        "photonics-rp"
+      ]
+    },
+    {
+      "id": "物理光学",
+      "name_zh": "物理光学",
+      "name_en": "Physical Optics",
+      "stage": 3,
+      "directory": "05-光学与光电技术/物理光学",
+      "prerequisites": [
+        "光学",
+        "数学物理方法"
+      ],
+      "resource_ids": [
+        "cn-optics",
+        "os-university-physics-volume-3",
+        "mit803",
+        "mit271",
+        "mit803-ex",
+        "mit271-ex",
+        "libretexts-wave",
+        "opencourse-comsol-adjacent"
+      ]
+    },
+    {
+      "id": "现代光学设计",
+      "name_zh": "现代光学设计",
+      "name_en": "Optical System Design",
+      "stage": 3,
+      "directory": "05-光学与光电技术/现代光学设计",
+      "prerequisites": [
+        "光学"
+      ],
+      "resource_ids": [
+        "mit271",
+        "mit271-ex",
+        "libretexts-wave",
+        "mit271-syllabus",
+        "opencourse-comsol-adjacent",
+        "photonics-rp"
+      ]
+    },
+    {
+      "id": "光谱技术及应用",
+      "name_zh": "光谱技术及应用",
+      "name_en": "Spectroscopy and Applications",
+      "stage": 3,
+      "directory": "05-光学与光电技术/光谱技术及应用",
+      "prerequisites": [
+        "光学",
+        "原子物理学"
+      ],
+      "resource_ids": [
+        "mit803",
+        "nist-asd",
+        "photonics-rp"
+      ]
+    },
+    {
+      "id": "信息光学",
+      "name_zh": "信息光学",
+      "name_en": "Information Optics",
+      "stage": 4,
+      "directory": "05-光学与光电技术/信息光学",
+      "prerequisites": [
+        "光学",
+        "数学物理方法",
+        "物理光学"
+      ],
+      "resource_ids": [
+        "cn-info-optics",
+        "mit271",
+        "mit6003",
+        "mit271-ex",
+        "libretexts-wave",
+        "opencourse-comsol-adjacent"
+      ]
+    },
+    {
+      "id": "光电测量技术",
+      "name_zh": "光电测量技术",
+      "name_en": "Optoelectronic Measurement",
+      "stage": 4,
+      "directory": "05-光学与光电技术/光电测量技术",
+      "prerequisites": [
+        "光学",
+        "模拟电子技术"
+      ],
+      "resource_ids": [
+        "mit813-lab",
+        "mit631",
+        "nist-uncertainty",
+        "photonics-rp"
+      ]
+    },
+    {
+      "id": "激光加工技术导论",
+      "name_zh": "激光加工技术导论",
+      "name_en": "Introduction to Laser Processing Technology",
+      "stage": 3,
+      "directory": "05-光学与光电技术/激光加工技术导论",
+      "prerequisites": [
+        "光学",
+        "热学",
+        "激光原理与应用"
+      ],
+      "resource_ids": [
+        "cn-laser",
+        "mit631",
+        "photonics-rp"
+      ]
+    },
+    {
+      "id": "电路分析基础",
+      "name_zh": "电路分析基础",
+      "name_en": "Circuit Analysis",
+      "stage": 2,
+      "directory": "06-电路与电子技术/电路分析基础",
+      "prerequisites": [
+        "电磁学"
+      ],
+      "resource_ids": [
+        "cn-circuits",
+        "mit6002"
+      ]
+    },
+    {
+      "id": "模拟电子技术",
+      "name_zh": "模拟电子技术",
+      "name_en": "Analog Electronics",
+      "stage": 2,
+      "directory": "06-电路与电子技术/模拟电子技术",
+      "prerequisites": [
+        "电路分析基础"
+      ],
+      "resource_ids": [
+        "cn-analog",
+        "mit6002",
+        "mit6012",
+        "mit6012-ex",
+        "mooc-analog",
+        "kicad"
+      ]
+    },
+    {
+      "id": "数字电路",
+      "name_zh": "数字电路",
+      "name_en": "Digital Circuits",
+      "stage": 2,
+      "directory": "06-电路与电子技术/数字电路",
+      "prerequisites": [
+        "电路分析基础"
+      ],
+      "resource_ids": [
+        "mit6002",
+        "mooc-digital",
+        "kicad"
+      ]
+    },
+    {
+      "id": "微控制器原理与应用",
+      "name_zh": "微控制器原理与应用",
+      "name_en": "Microcontroller Fundamentals and Applications",
+      "stage": 3,
+      "directory": "06-电路与电子技术/微控制器原理与应用",
+      "prerequisites": [
+        "数字电路",
+        "C 语言程序设计",
+        "电路分析基础"
+      ],
+      "resource_ids": [
+        "arduino",
+        "pic"
+      ]
+    },
+    {
+      "id": "信号与系统",
+      "name_zh": "信号与系统",
+      "name_en": "Signals and Systems",
+      "stage": 2,
+      "directory": "06-电路与电子技术/信号与系统",
+      "prerequisites": [
+        "高等数学",
+        "数学物理方法"
+      ],
+      "resource_ids": [
+        "mit6003",
+        "mit6003-ex"
+      ]
+    },
+    {
+      "id": "量子力学专题",
+      "name_zh": "量子力学专题",
+      "name_en": "Special Topics on Quantum Mechanics",
+      "stage": 4,
+      "directory": "07-量子信息与现代物理/量子力学专题",
+      "prerequisites": [
+        "量子力学",
+        "线性代数"
+      ],
+      "resource_ids": [
+        "cn-quantum",
+        "mit805",
+        "mit8370",
+        "tong-quantum"
+      ]
+    },
+    {
+      "id": "量子计算与量子通信",
+      "name_zh": "量子计算与量子通信",
+      "name_en": "Quantum Computation and Quantum Communication",
+      "stage": 4,
+      "directory": "07-量子信息与现代物理/量子计算与量子通信",
+      "prerequisites": [
+        "线性代数",
+        "量子力学",
+        "概率论与数理统计"
+      ],
+      "resource_ids": [
+        "mit8370",
+        "quantum-ibm"
+      ]
+    },
+    {
+      "id": "粒子物理导论",
+      "name_zh": "粒子物理导论",
+      "name_en": "Introduction to Particle Physics",
+      "stage": 3,
+      "directory": "07-量子信息与现代物理/粒子物理导论",
+      "prerequisites": [
+        "原子物理学",
+        "量子力学"
+      ],
+      "resource_ids": [
+        "os-university-physics-volume-3",
+        "mit812",
+        "cern-particles"
+      ]
+    },
+    {
+      "id": "物理学史",
+      "name_zh": "物理学史",
+      "name_en": "History of Physics",
+      "stage": 3,
+      "directory": "07-量子信息与现代物理/物理学史",
+      "prerequisites": [
+        "力学",
+        "原子物理学"
+      ],
+      "resource_ids": [
+        "nasa-history"
+      ]
+    },
+    {
+      "id": "物理前沿阅读",
+      "name_zh": "物理前沿阅读",
+      "name_en": "Recent Directions in Physics",
+      "stage": 4,
+      "directory": "07-量子信息与现代物理/物理前沿阅读",
+      "prerequisites": [
+        "科技文献检索",
+        "量子力学"
+      ],
+      "resource_ids": [
+        "cern-particles"
+      ]
+    },
+    {
+      "id": "C 语言程序设计",
+      "name_zh": "C 语言程序设计",
+      "name_en": "C Programming",
+      "stage": 1,
+      "directory": "08-编程与计算物理/C 语言程序设计",
+      "prerequisites": [],
+      "resource_ids": [
+        "cn-c",
+        "mit6087",
+        "mit6s096",
+        "mit6087-ex",
+        "fsf-gnu-c"
+      ]
+    },
+    {
+      "id": "Python 程序设计",
+      "name_zh": "Python 程序设计",
+      "name_en": "Python Programming",
+      "stage": 1,
+      "directory": "08-编程与计算物理/Python 程序设计",
+      "prerequisites": [],
+      "resource_ids": [
+        "mit12010",
+        "python-tutorial",
+        "think-python",
+        "scipy"
+      ]
+    },
+    {
+      "id": "算法与数据结构",
+      "name_zh": "算法与数据结构",
+      "name_en": "Algorithms and Data Structures",
+      "stage": 2,
+      "directory": "08-编程与计算物理/算法与数据结构",
+      "prerequisites": [
+        "C 语言程序设计"
+      ],
+      "resource_ids": [
+        "mit6046",
+        "mit6s096"
+      ]
+    },
+    {
+      "id": "计算物理",
+      "name_zh": "计算物理",
+      "name_en": "Computational Physics",
+      "stage": 3,
+      "directory": "08-编程与计算物理/计算物理",
+      "prerequisites": [
+        "高等数学",
+        "线性代数",
+        "力学",
+        "C 语言程序设计"
+      ],
+      "resource_ids": [
+        "mit12010",
+        "mit18335",
+        "mit18335-ex",
+        "python-tutorial",
+        "think-python",
+        "matlab-onramp",
+        "matlab-docs",
+        "scipy"
+      ]
+    },
+    {
+      "id": "MATLAB 科学计算",
+      "name_zh": "MATLAB 科学计算",
+      "name_en": "Scientific Computing with MATLAB",
+      "stage": 2,
+      "directory": "08-编程与计算物理/MATLAB 科学计算",
+      "prerequisites": [
+        "线性代数"
+      ],
+      "resource_ids": [
+        "mit18335",
+        "mit18335-ex",
+        "matlab-onramp",
+        "matlab-docs"
+      ]
+    },
+    {
+      "id": "普通物理实验一",
+      "name_zh": "普通物理实验一",
+      "name_en": "Introductory Physics Experiments I",
+      "stage": 1,
+      "directory": "09-物理实验与项目设计/普通物理实验一",
+      "prerequisites": [
+        "力学"
+      ],
+      "resource_ids": [
+        "cn-lab",
+        "mit813",
+        "mooc-lab",
+        "phet",
+        "nist-uncertainty"
+      ]
+    },
+    {
+      "id": "普通物理实验二",
+      "name_zh": "普通物理实验二",
+      "name_en": "Introductory Physics Experiments II",
+      "stage": 2,
+      "directory": "09-物理实验与项目设计/普通物理实验二",
+      "prerequisites": [
+        "普通物理实验一",
+        "电磁学",
+        "光学"
+      ],
+      "resource_ids": [
+        "cn-lab",
+        "mit813-lab",
+        "mit813",
+        "mooc-lab",
+        "phet",
+        "nist-uncertainty"
+      ]
+    },
+    {
+      "id": "近代物理实验",
+      "name_zh": "近代物理实验",
+      "name_en": "Modern Physics Experiments",
+      "stage": 3,
+      "directory": "09-物理实验与项目设计/近代物理实验",
+      "prerequisites": [
+        "原子物理学",
+        "量子力学",
+        "普通物理实验二"
+      ],
+      "resource_ids": [
+        "mit813-lab",
+        "mit813",
+        "mooc-lab",
+        "nist-uncertainty"
+      ]
+    },
+    {
+      "id": "光学综合实验",
+      "name_zh": "光学综合实验",
+      "name_en": "Integrated Optics Experiments",
+      "stage": 3,
+      "directory": "09-物理实验与项目设计/光学综合实验",
+      "prerequisites": [
+        "光学",
+        "普通物理实验一"
+      ],
+      "resource_ids": [
+        "mit271",
+        "mit813"
+      ]
+    },
+    {
+      "id": "材料物理综合实验",
+      "name_zh": "材料物理综合实验",
+      "name_en": "Integrated Materials Physics Experiments",
+      "stage": 3,
+      "directory": "09-物理实验与项目设计/材料物理综合实验",
+      "prerequisites": [
+        "材料物理性能",
+        "普通物理实验二"
+      ],
+      "resource_ids": [
+        "mit3012",
+        "mit813"
+      ]
+    },
+    {
+      "id": "量子信息综合实验",
+      "name_zh": "量子信息综合实验",
+      "name_en": "Integrated Quantum Information Experiments",
+      "stage": 4,
+      "directory": "09-物理实验与项目设计/量子信息综合实验",
+      "prerequisites": [
+        "量子力学",
+        "线性代数",
+        "概率论与数理统计"
+      ],
+      "resource_ids": [
+        "mit8370",
+        "mit813",
+        "quantum-ibm"
+      ]
+    },
+    {
+      "id": "电子工艺实习",
+      "name_zh": "电子工艺实习",
+      "name_en": "Electronic Process Practice",
+      "stage": 2,
+      "directory": "09-物理实验与项目设计/电子工艺实习",
+      "prerequisites": [
+        "电路分析基础",
+        "模拟电子技术"
+      ],
+      "resource_ids": [
+        "mit6002",
+        "kicad",
+        "opensource-hardware"
+      ]
+    },
+    {
+      "id": "现代光学设计项目",
+      "name_zh": "现代光学设计项目",
+      "name_en": "Optical Design Project",
+      "stage": 3,
+      "directory": "09-物理实验与项目设计/现代光学设计项目",
+      "prerequisites": [
+        "光学",
+        "高等数学"
+      ],
+      "resource_ids": [
+        "mit271",
+        "mit271-syllabus",
+        "opencourse-comsol-adjacent",
+        "photonics-rp"
+      ]
+    },
+    {
+      "id": "信息光学设计项目",
+      "name_zh": "信息光学设计项目",
+      "name_en": "Information Optics Project",
+      "stage": 4,
+      "directory": "09-物理实验与项目设计/信息光学设计项目",
+      "prerequisites": [
+        "数学物理方法",
+        "光学"
+      ],
+      "resource_ids": [
+        "cn-info-optics",
+        "mit271",
+        "opencourse-comsol-adjacent"
+      ]
+    },
+    {
+      "id": "电子电路设计项目",
+      "name_zh": "电子电路设计项目",
+      "name_en": "Electronic Circuit Design Project",
+      "stage": 2,
+      "directory": "09-物理实验与项目设计/电子电路设计项目",
+      "prerequisites": [
+        "电路分析基础",
+        "模拟电子技术"
+      ],
+      "resource_ids": [
+        "mit6002",
+        "kicad",
+        "opensource-hardware"
+      ]
+    },
+    {
+      "id": "微控制器应用项目",
+      "name_zh": "微控制器应用项目",
+      "name_en": "Microcontroller Applications Project",
+      "stage": 4,
+      "directory": "09-物理实验与项目设计/微控制器应用项目",
+      "prerequisites": [
+        "数字电路",
+        "C 语言程序设计"
+      ],
+      "resource_ids": [
+        "arduino",
+        "pic"
+      ]
+    },
+    {
+      "id": "科学软件项目",
+      "name_zh": "科学软件项目",
+      "name_en": "Scientific Software Project",
+      "stage": 3,
+      "directory": "09-物理实验与项目设计/科学软件项目",
+      "prerequisites": [
+        "C 语言程序设计"
+      ],
+      "resource_ids": [
+        "mit12010",
+        "mit6046",
+        "python-tutorial",
+        "scipy"
+      ]
+    },
+    {
+      "id": "科技文献检索",
+      "name_zh": "科技文献检索",
+      "name_en": "Scientific Literature Retrieval",
+      "stage": 2,
+      "directory": "10-科研与论文写作/科技文献检索",
+      "prerequisites": [
+        "物理专业英语"
+      ],
+      "resource_ids": [
+        "crossref",
+        "wenhua"
+      ]
+    },
+    {
+      "id": "物理专业英语",
+      "name_zh": "物理专业英语",
+      "name_en": "English for Physics",
+      "stage": 2,
+      "directory": "10-科研与论文写作/物理专业英语",
+      "prerequisites": [
+        "电磁学"
+      ],
+      "resource_ids": [
+        "mit-comm",
+        "purdue-owl"
+      ]
+    },
+    {
+      "id": "应用物理实践入门",
+      "name_zh": "应用物理实践入门",
+      "name_en": "Applied Physics Project Orientation",
+      "stage": 1,
+      "directory": "10-科研与论文写作/应用物理实践入门",
+      "prerequisites": [],
+      "resource_ids": []
+    },
+    {
+      "id": "技术创新与原型验证",
+      "name_zh": "技术创新与原型验证",
+      "name_en": "Technology Innovation and Prototype Validation",
+      "stage": 4,
+      "directory": "10-科研与论文写作/技术创新与原型验证",
+      "prerequisites": [],
+      "resource_ids": []
+    },
+    {
+      "id": "实验室项目实践",
+      "name_zh": "实验室项目实践",
+      "name_en": "Laboratory Project Practice",
+      "stage": 4,
+      "directory": "10-科研与论文写作/实验室项目实践",
+      "prerequisites": [],
+      "resource_ids": []
+    },
+    {
+      "id": "物理研究与论文写作",
+      "name_zh": "物理研究与论文写作",
+      "name_en": "Physics Research and Thesis Writing",
+      "stage": 4,
+      "directory": "10-科研与论文写作/物理研究与论文写作",
+      "prerequisites": [
+        "科技文献检索",
+        "应用物理研究实践",
+        "物理专业英语"
+      ],
+      "resource_ids": [
+        "nist-uncertainty",
+        "crossref",
+        "mit-comm",
+        "purdue-owl"
+      ]
+    },
+    {
+      "id": "生产流程与量测",
+      "name_zh": "生产流程与量测",
+      "name_en": "Manufacturing Processes and Measurement",
+      "stage": 4,
+      "directory": "10-科研与论文写作/生产流程与量测",
+      "prerequisites": [],
+      "resource_ids": []
+    },
+    {
+      "id": "应用物理研究实践",
+      "name_zh": "应用物理研究实践",
+      "name_en": "Applied Physics Research Practice",
+      "stage": 4,
+      "directory": "10-科研与论文写作/应用物理研究实践",
+      "prerequisites": [
+        "科技文献检索",
+        "普通物理实验二"
+      ],
+      "resource_ids": [
+        "mit813",
+        "mit12010",
+        "nist-uncertainty",
+        "scipy",
+        "crossref"
+      ]
+    },
+    {
+      "id": "工程图学",
+      "name_zh": "工程图学",
+      "name_en": "Engineering Graphics",
+      "stage": 2,
+      "directory": "11-工程基础与科学素养/工程图学",
+      "prerequisites": [],
+      "resource_ids": [
+        "uefa-paper"
+      ]
+    },
+    {
+      "id": "科技创新",
+      "name_zh": "科技创新",
+      "name_en": "Innovation of Science and Technology",
+      "stage": 4,
+      "directory": "11-工程基础与科学素养/科技创新",
+      "prerequisites": [],
+      "resource_ids": []
+    },
+    {
+      "id": "工程管理与经济决策",
+      "name_zh": "工程管理与经济决策",
+      "name_en": "Engineering Management and Economic Decisions",
+      "stage": 4,
+      "directory": "11-工程基础与科学素养/工程管理与经济决策",
+      "prerequisites": [
+        "概率论与数理统计"
+      ],
+      "resource_ids": [
+        "iso-management"
+      ]
+    }
+  ]
+}

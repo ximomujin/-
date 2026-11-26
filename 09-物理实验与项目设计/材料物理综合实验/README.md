@@ -34,10 +34,32 @@ Integrated Materials Physics Experiments · 学习阶段 3
 
 综合实验。把批次、环境和处理参数写入实验记录。
 
+## 推导与案例
+
+由两个衍射峰交叉核对晶格常数和角度误差。 [推导、案例与练习](推导与案例.md)
+
 ## 教材索引
 
-- 开放课程 · [3.012 Fundamentals of Materials Science](https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/)
-- 开放课程 · [8.13–8.14 Experimental Physics I & II](https://ocw.mit.edu/courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/)
+### 讲义
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [3.012 Fundamentals of Materials Science: Lecture Notes](https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/pages/lecture-notes/) | 英文 · fall 2005 · 本科 | 结构模块的对称、晶体和衍射；热力学模块的自由能、化学势与相图 | 在线入口 |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [3.012 Fundamentals of Materials Science](https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/) | 英文 · fall 2005 · 本科 | 相结构、热力学、材料性质 | 在线入口 |
+| [8.13–8.14 Experimental Physics I & II](https://ocw.mit.edu/courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/) | 英文 · spring 2017 · 本科 | 实验记录、误差和校准、现代物理实验 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [3.012 Fundamentals of Materials Science: Assignments](https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/pages/assignments/) | 英文 · fall 2005 · 本科 | 结构和热力学问题集；优先练习倒易格子、自由能和平衡 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

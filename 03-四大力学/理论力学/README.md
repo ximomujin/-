@@ -19,6 +19,9 @@ Theoretical Mechanics · 学习阶段 2
 
 ## 公式与推导
 
+
+[专题推导与习题](%E4%B8%93%E9%A2%98%E6%8E%A8%E5%AF%BC%E4%B8%8E%E4%B9%A0%E9%A2%98.md)提供逐步推导、计算例题和解答。
+
 固定端点的变分满足 $\delta\int L(q,\dot q,t)\,dt=0$。对含 $\delta\dot q$ 的项分部积分，端点项为零，给出 $d(\partial L/\partial\dot q)/dt-\partial L/\partial q=0$。
 
 ## 例题
@@ -37,11 +40,32 @@ Theoretical Mechanics · 学习阶段 2
 
 ## 教材索引
 
-- 教材 · [理论力学教程](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=59fdffdbf18f967ee7f364aa)
-- 讲义 · [8.09 Classical Mechanics III: Advanced Classical Mechanics](https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/resources/lecture-notes/) · [本地文件](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E9%AB%98%E7%AD%89%E7%BB%8F%E5%85%B8%E5%8A%9B%E5%AD%A6%E8%AE%B2%E4%B9%89-%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2.pdf)
-- 习题 · [8.09 Classical Mechanics III: Problem Set 1](https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/pages/assignments/) · [本地文件](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E4%B9%A0%E9%A2%98-%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2.pdf)
-- 开放课程 · [8.09 Classical Mechanics III](https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/)
-- 讲义 · [Classical Dynamics](https://davidtong.org/teaching/classical-dynamics/)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [理论力学教程](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=59fdffdbf18f967ee7f364aa) | 中文 · 第四版 · 本科 | 质点与刚体、非惯性系、分析力学 | 在线入口 |
+
+### 讲义
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.09 Classical Mechanics III: Advanced Classical Mechanics](https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/resources/lecture-notes/) | 英文 · fall 2014 · 本科 | 分析力学、振动、转动参考系、刚体、流体和混沌 | [离线 PDF](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E9%AB%98%E7%AD%89%E7%BB%8F%E5%85%B8%E5%8A%9B%E5%AD%A6%E8%AE%B2%E4%B9%89-%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2.pdf) |
+| [Classical Dynamics](https://davidtong.org/teaching/classical-dynamics/) | 英文 · 本科 | 第 1–4 章；牛顿、拉格朗日、刚体和哈密顿力学 | 在线入口 |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.09 Classical Mechanics III](https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/) | 英文 · fall 2014 · 本科 | 分析力学、振动、刚体与混沌 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.09 Classical Mechanics III: Problem Set 1](https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/pages/assignments/) | 英文 · fall 2014 · 本科 | 拉格朗日与哈密顿力学复习 | [离线 PDF](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E4%B9%A0%E9%A2%98-%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2.pdf) |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

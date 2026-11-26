@@ -35,10 +35,25 @@ Circuit Analysis · 学习阶段 2
 
 用低压阶跃信号、示波器和已知 R、C 量测时间常数，解释探头负载和元件容差。
 
+## 专题讲义
+
+[阅读相关推导、例题与自测](../%E4%BB%8E%E7%94%B5%E8%B7%AF%E6%A8%A1%E5%9E%8B%E5%88%B0%E9%87%87%E6%A0%B7%E6%B5%8B%E9%87%8F.md#%E4%B8%80%E9%98%B6-rc-%E7%94%B5%E8%B7%AF%E7%9A%84%E4%B8%A4%E7%A7%8D%E6%B1%82%E8%A7%A3)。
+
 ## 教材索引
 
-- 教材 · [简明电路分析基础](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=59cc1005ba9eb884cf81540e)
-- 开放课程 · [6.002 Circuits and Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [简明电路分析基础](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=59cc1005ba9eb884cf81540e) | 中文 · 出版社现行条目 · 本科 | 电路定律、分析方法、暂态和正弦稳态 | 在线入口 |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [6.002 Circuits and Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/) | 英文 · spring 2007 · 本科 | 电路分析、MOSFET、电路设计和数字抽象 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

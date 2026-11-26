@@ -19,6 +19,9 @@ Probability and Mathematical Statistics · 学习阶段 1
 
 ## 公式与推导
 
+
+[专题推导与习题](%E4%B8%93%E9%A2%98%E6%8E%A8%E5%AF%BC%E4%B8%8E%E4%B9%A0%E9%A2%98.md)提供逐步推导、计算例题和解答。
+
 独立同分布且方差有限时，利用方差对独立和的可加性得到 $\operatorname{Var}(\bar X)=\sigma^2/n$。均值标准误差为 $\sigma/\sqrt n$，增加重复测量次数可降低独立随机误差。
 
 ## 例题
@@ -37,12 +40,28 @@ Probability and Mathematical Statistics · 学习阶段 1
 
 ## 教材索引
 
-- 教材 · [概率论与数理统计](https://xuanshu.hep.com.cn/front/bookFair/findBookFairDetails?onlineBookFairId=672b181be4b02024dccd5d96)
-- 开放课程 · [18.05 Introduction to Probability and Statistics](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/)
-- 习题 · [18.05 概率统计作业](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/download/)
-- 开放课程 · [概率论与数理统计](https://www.icourse163.org/course/ZJU-232005)
-- 教材 · [OpenIntro Statistics](https://www.openintro.org/book/os/)
-- 习题 · [OpenIntro Statistics 第四版习题与公开补充](https://www.openintro.org/book/os/)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [概率论与数理统计](https://xuanshu.hep.com.cn/front/bookFair/findBookFairDetails?onlineBookFairId=672b181be4b02024dccd5d96) | 中文 · 第五版 · 本科 | 概率分布、大数定律、数理统计、估计与检验 | 在线入口 |
+| [OpenIntro Statistics](https://www.openintro.org/book/os/) | 英文 · 第四版 · 本科 | 概率、分布、统计推断、回归与章末题 | 在线入口 |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [18.05 Introduction to Probability and Statistics](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/) | 英文 · spring 2022 · 本科 | 概率、贝叶斯方法、经典统计推断与回归 | 在线入口 |
+| [概率论与数理统计](https://www.icourse163.org/course/ZJU-232005) | 中文 · 本科 | 概率模型、多维随机变量、数理统计 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [18.05 概率统计作业](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/download/) | 英文 · spring 2022 · 本科 | 概率、推断和 R 练习 | 在线入口 |
+| [OpenIntro Statistics 第四版习题与公开补充](https://www.openintro.org/book/os/) | 英文 · 本科 | 使用教材章末练习；部分资料仅对教师开放 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

@@ -19,6 +19,8 @@ Physical Chemistry of Materials · 学习阶段 3
 
 ## 公式与推导
 
+[详细推导、例题与自测](../%E7%BB%93%E6%9E%84%E3%80%81%E6%80%A7%E8%83%BD%E4%B8%8E%E5%99%A8%E4%BB%B6.md#%E6%9D%90%E6%96%99%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6)。
+
 在二元两相区令两相成分为 $x_\alpha,x_\beta$，总体成分为 $x_0$。由质量或摩尔数守恒 $x_0=f_\alpha x_\alpha+f_\beta x_\beta$ 和 $f_\alpha+f_\beta=1$ 得 $f_\beta=(x_0-x_\alpha)/(x_\beta-x_\alpha)$，须使用与组成一致的分数基准。
 
 ## 例题
@@ -37,8 +39,31 @@ $x_\alpha=0.20,x_\beta=0.80,x_0=0.50$ 时两相分数各为 $0.50$。
 
 ## 教材索引
 
-- 开放课程 · [3.012 Fundamentals of Materials Science](https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/)
-- 在线资料 · [Physical Chemistry](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps)
+### 讲义
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [3.012 Fundamentals of Materials Science: Lecture Notes](https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/pages/lecture-notes/) | 英文 · fall 2005 · 本科 | 结构模块的对称、晶体和衍射；热力学模块的自由能、化学势与相图 | 在线入口 |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [3.012 Fundamentals of Materials Science](https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/) | 英文 · fall 2005 · 本科 | 相结构、热力学、材料性质 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [3.012 Fundamentals of Materials Science: Assignments](https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/pages/assignments/) | 英文 · fall 2005 · 本科 | 结构和热力学问题集；优先练习倒易格子、自由能和平衡 | 在线入口 |
+
+### 在线资料
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [Physical Chemistry](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps) | 英文 · 本科 | 物理化学书架；相平衡、化学热力学和动力学 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

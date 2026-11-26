@@ -35,11 +35,37 @@ Laser Physics and Applications · 学习阶段 3
 
 根据教学装置的既有实验数据拟合阈值段，记录增益、镜损耗与测量环境。
 
+## 专题讲义
+
+[阅读相关推导、例题与自测](../%E6%B3%A2%E5%8A%A8%E6%88%90%E5%83%8F%E4%B8%8E%E5%85%89%E7%94%B5%E6%B5%8B%E9%87%8F.md#%E4%BB%8E%E5%85%89%E6%9D%9F%E5%8F%82%E6%95%B0%E8%BF%9E%E6%8E%A5%E6%9D%90%E6%96%99%E6%B8%A9%E5%8D%87)。
+
 ## 教材索引
 
-- 教材 · [激光原理与技术](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=59cd8d4aba9eb884cf81b120)
-- 开放课程 · [6.974 Fundamentals of Photonics: Quantum Electronics](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/)
-- 在线资料 · [RP Photonics Encyclopedia](https://www.rp-photonics.com/encyclopedia.html)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [激光原理与技术](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=59cd8d4aba9eb884cf81b120) | 中文 · 第二版 · 本科 | 激光产生、谐振腔、光束与激光系统 | 在线入口 |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [6.974 Fundamentals of Photonics: Quantum Electronics](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/) | 英文 · Spring 2006 · 本科 | 激光、光电探测及光子学相关内容 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [6.977 Semiconductor Optoelectronics: Problem Set 6](https://ocw.mit.edu/courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/resources/ps6/) | 英文 · fall 2002 · 本科 | 半导体激光器，能带和阈值问题 | [离线 PDF](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%BF%80%E5%85%89%E5%99%A8%E4%B9%A0%E9%A2%98.pdf) |
+
+### 在线资料
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [RP Photonics Encyclopedia](https://www.rp-photonics.com/encyclopedia.html) | 英文 · 本科 | 激光束、光谱、探测器和激光加工术语与公式 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

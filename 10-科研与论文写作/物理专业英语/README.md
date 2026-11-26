@@ -4,6 +4,8 @@ English for Physics · 学习阶段 2
 
 从下方知识树开始，完成一个可复现的练习。
 
+[本主题的详解与案例](../研究方法与案例.md#物理专业英语)
+
 ## 前置知识
 
 [电磁学](../../02-%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86%E5%AD%A6/%E7%94%B5%E7%A3%81%E5%AD%A6/README.md)
@@ -34,8 +36,14 @@ English for Physics · 学习阶段 2
 
 ## 教材索引
 
-- 在线资料 · [MIT Writing and Communication Center](https://capd.mit.edu/organizations/mit-writing-communication-center/)
-- 在线资料 · [Purdue Online Writing Lab](https://owl.purdue.edu/owl/)
+### 在线资料
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [MIT Writing and Communication Center](https://capd.mit.edu/organizations/mit-writing-communication-center/) | 英文 · 本科 | 学术交流与写作、引用与读者意识 | 在线入口 |
+| [Purdue Online Writing Lab](https://owl.purdue.edu/owl/) | 英文 · 本科 | 学术写作、组织和引文格式 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

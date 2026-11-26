@@ -18,6 +18,8 @@ Nanoscience and Nanotechnology · 学习阶段 4
 
 ## 公式与推导
 
+[详细推导、例题与自测](../%E7%BB%93%E6%9E%84%E3%80%81%E6%80%A7%E8%83%BD%E4%B8%8E%E5%99%A8%E4%BB%B6.md#%E7%BA%B3%E7%B1%B3%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF)。
+
 无限深一维势阱边界条件要求 $\psi(0)=\psi(L)=0$，波数 $k_n=n\pi/L$。代入自由粒子区的能量关系得 $E_n=\hbar^2\pi^2n^2/(2mL^2)$。这说明简单限域模型中的能级间隔按 $L^{-2}$ 缩放。
 
 ## 例题
@@ -36,7 +38,13 @@ $L$ 减半时 $E_2-E_1$ 变为四倍，若用同一量子模型，跃迁频率�
 
 ## 教材索引
 
-- 开放课程 · [3.012 Fundamentals of Materials Science](https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/)
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [3.012 Fundamentals of Materials Science](https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/) | 英文 · fall 2005 · 本科 | 相结构、热力学、材料性质 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

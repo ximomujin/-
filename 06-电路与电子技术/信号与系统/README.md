@@ -34,10 +34,37 @@ Signals and Systems · 学习阶段 2
 
 制作同一系统的时域响应与频域响应对照图。
 
+## 专题讲义
+
+[阅读相关推导、例题与自测](../%E4%BB%8E%E7%94%B5%E8%B7%AF%E6%A8%A1%E5%9E%8B%E5%88%B0%E9%87%87%E6%A0%B7%E6%B5%8B%E9%87%8F.md#%E8%AE%A9%E5%BE%AE%E6%8E%A7%E5%88%B6%E5%99%A8%E9%87%87%E6%A0%B7%E5%8F%AF%E4%BB%A5%E5%A4%8D%E6%A0%B8)。
+
 ## 教材索引
 
-- 开放课程 · [6.003 Signals and Systems](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/)
-- 习题 · [6.003 信号与系统作业](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/pages/assignments/)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [信号与系统 上册](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=6620017574ce561611bd9ef6) | 中文 · 第四版 · 本科 | 线性时不变系统、时域分析、傅里叶分析和变换域；信息光学用作信号表示参考 | 在线入口 |
+
+### 讲义
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [6.003 Signals and Systems: Lecture Notes](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/pages/lecture-notes/) | 英文 · fall 2011 · 本科 | 卷积、傅里叶与拉普拉斯变换、线性系统、采样 | 在线入口 |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [6.003 Signals and Systems](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/) | 英文 · fall 2011 · 本科 | 信号变换、卷积、抽样及滤波 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [6.003 信号与系统作业](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/pages/assignments/) | 英文 · fall 2011 · 本科 | 抽样、变换和系统分析 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

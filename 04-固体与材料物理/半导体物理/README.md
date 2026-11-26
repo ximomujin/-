@@ -18,6 +18,8 @@ Semiconductor Physics · 学习阶段 3
 
 ## 公式与推导
 
+[详细推导、例题与自测](../%E7%BB%93%E6%9E%84%E3%80%81%E6%80%A7%E8%83%BD%E4%B8%8E%E5%99%A8%E4%BB%B6.md#%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%89%A9%E7%90%86)。
+
 设热平衡下只有同一个费米能级。在非简并近似下，$n=N_c e^{(E_F-E_c)/(k_B T)}$，$p=N_v e^{(E_v-E_F)/(k_B T)}$。相乘后 $E_F$ 消去，得到 $np=N_cN_v e^{-(E_c-E_v)/(k_B T)}=n_i^2$。强注入或重掺杂时要重新检查假设。
 
 ## 例题
@@ -36,10 +38,33 @@ Semiconductor Physics · 学习阶段 3
 
 ## 教材索引
 
-- 开放课程 · [8.231 Physics of Solids I](https://ocw.mit.edu/courses/8-231-physics-of-solids-i-fall-2006/)
-- 开放课程 · [6.012 Microelectronic Devices and Circuits](https://ocw.mit.edu/courses/6-012-microelectronic-devices-and-circuits-fall-2009/)
-- 习题 · [8.231 固体物理问题集](https://ocw.mit.edu/courses/8-231-physics-of-solids-i-fall-2006/pages/assignments/)
-- 习题 · [6.012 微电子器件与电路作业](https://ocw.mit.edu/courses/6-012-microelectronic-devices-and-circuits-fall-2009/pages/assignments/)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [半导体物理](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=68a752a0e119ac9729e17c48) | 中文 · 2026 年版 · 本科 | 电子态、杂质、载流子统计、输运、PN 结和金属半导体接触 | 在线入口 |
+
+### 讲义
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [6.012 Microelectronic Devices and Circuits: Lecture Notes](https://ocw.mit.edu/courses/6-012-microelectronic-devices-and-circuits-fall-2009/pages/lecture-notes/) | 英文 · fall 2009 · 本科 | 载流子、输运、结、MOS 静电学、小信号放大 | 在线入口 |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.231 Physics of Solids I](https://ocw.mit.edu/courses/8-231-physics-of-solids-i-fall-2006/) | 英文 · fall 2006 · 本科 | 晶体、声子、自由电子、能带和输运 | 在线入口 |
+| [6.012 Microelectronic Devices and Circuits](https://ocw.mit.edu/courses/6-012-microelectronic-devices-and-circuits-fall-2009/) | 英文 · fall 2009 · 本科 | 半导体器件、二极管、MOSFET与电路 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.231 固体物理问题集](https://ocw.mit.edu/courses/8-231-physics-of-solids-i-fall-2006/pages/assignments/) | 英文 · fall 2006 · 本科 | 晶格、电子和能带 | 在线入口 |
+| [6.012 微电子器件与电路作业](https://ocw.mit.edu/courses/6-012-microelectronic-devices-and-circuits-fall-2009/pages/assignments/) | 英文 · fall 2009 · 本科 | 半导体器件与放大电路 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

@@ -34,10 +34,20 @@ Quantum Computation and Quantum Communication · 学习阶段 4
 
 通过矩阵乘法复现 Bell 态线路，核对概率归一和位序约定。
 
+## 专题讲义
+
+[阅读相关推导、例题与自测](../%E9%87%8F%E5%AD%90%E6%B5%8B%E9%87%8F%E3%80%81%E7%BA%A0%E7%BC%A0%E4%B8%8E%E7%B2%92%E5%AD%90%E8%AF%81%E6%8D%AE.md#%E9%87%8F%E5%AD%90%E6%80%81%E4%BC%A0%E9%80%81%E4%B8%AD%E7%9A%84%E6%9D%A1%E4%BB%B6%E6%BC%94%E5%8C%96)。
+
 ## 教材索引
 
-- 开放课程 · [8.370x Quantum Information Science I](https://ocw.mit.edu/courses/8-370x-quantum-information-science-i-spring-2018/)
-- 开放课程 · [Basics of Quantum Information](https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information)
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.370x Quantum Information Science I](https://ocw.mit.edu/courses/8-370x-quantum-information-science-i-spring-2018/) | 英文 · spring 2018 · 本科 | 量子态、量子门、测量和纠缠 | 在线入口 |
+| [Basics of Quantum Information](https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information) | 英文 · 本科 | 量子信息基础、复合系统、量子电路和量子纠缠 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

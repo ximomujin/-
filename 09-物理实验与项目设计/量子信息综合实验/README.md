@@ -34,11 +34,21 @@ $p=0.5$、$N=100$ 时，理论频率标准差为 $0.05$，可用多轮仿真估�
 
 综合实验。实际装置与项目待课程确认。
 
+## 推导与案例
+
+比较 Bell 态在不同测量基中的奇偶关联及有限样本误差。 [推导、案例与练习](推导与案例.md)
+
 ## 教材索引
 
-- 开放课程 · [8.370x Quantum Information Science I](https://ocw.mit.edu/courses/8-370x-quantum-information-science-i-spring-2018/)
-- 开放课程 · [8.13–8.14 Experimental Physics I & II](https://ocw.mit.edu/courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/)
-- 开放课程 · [Basics of Quantum Information](https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information)
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.370x Quantum Information Science I](https://ocw.mit.edu/courses/8-370x-quantum-information-science-i-spring-2018/) | 英文 · spring 2018 · 本科 | 量子态、量子门、测量和纠缠 | 在线入口 |
+| [8.13–8.14 Experimental Physics I & II](https://ocw.mit.edu/courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/) | 英文 · spring 2017 · 本科 | 实验记录、误差和校准、现代物理实验 | 在线入口 |
+| [Basics of Quantum Information](https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information) | 英文 · 本科 | 量子信息基础、复合系统、量子电路和量子纠缠 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

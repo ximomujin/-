@@ -34,12 +34,27 @@ Optical Design Project · 学习阶段 3
 
 记录输入参数、软件版本与至少一组解析复核。
 
+## 推导与案例
+
+导出分离双薄透镜的等效焦距和后焦距。 [推导、案例与练习](推导与案例.md)
+
 ## 教材索引
 
-- 开放课程 · [2.71 Optics](https://ocw.mit.edu/courses/2-71-optics-spring-2014/)
-- 在线资料 · [2.71 光学教学大纲](https://ocw.mit.edu/courses/2-71-optics-spring-2014/pages/syllabus/)
-- 在线资料 · [Meep Documentation](https://meep.readthedocs.io/en/latest/)
-- 在线资料 · [RP Photonics Encyclopedia](https://www.rp-photonics.com/encyclopedia.html)
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [2.71 Optics](https://ocw.mit.edu/courses/2-71-optics-spring-2014/) | 英文 · spring 2014 · 本科 | 几何与波动光学、透镜、傅里叶光学与成像设计 | 在线入口 |
+
+### 在线资料
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [2.71 光学教学大纲](https://ocw.mit.edu/courses/2-71-optics-spring-2014/pages/syllabus/) | 英文 · Spring 2014 · 本科 | 几何光学与波动光学 | 在线入口 |
+| [Meep Documentation](https://meep.readthedocs.io/en/latest/) | 英文 · 本科 | 光传播、衍射和 FDTD 演示；对应课程只作数值拓展。 | 在线入口 |
+| [RP Photonics Encyclopedia](https://www.rp-photonics.com/encyclopedia.html) | 英文 · 本科 | 激光束、光谱、探测器和激光加工术语与公式 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

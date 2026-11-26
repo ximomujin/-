@@ -34,16 +34,41 @@ $D=1\,\mathrm{m^2/s}$ 且 $\Delta x=0.1\,\mathrm m$ 时，一维显式格式取 
 
 上机。每份报告保留量纲、输入、误差和验证结果。
 
+## 推导与案例
+
+推导欧拉法的虚假能量增长，对比守恒量和收敛阶。 [推导、案例与练习](推导与案例.md)
+
 ## 教材索引
 
-- 开放课程 · [12.010 Computational Methods of Scientific Programming](https://ocw.mit.edu/courses/12-010-computational-methods-of-scientific-programming-fall-2024/)
-- 开放课程 · [18.335J Introduction to Numerical Methods](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/)
-- 习题 · [18.335J 数值方法作业](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/pages/resource-index/)
-- 教材 · [Python 教程](https://docs.python.org/zh-cn/3/tutorial/)
-- 教材 · [Think Python](https://allendowney.github.io/ThinkPython/)
-- 开放课程 · [MATLAB 入门之旅](https://matlabacademy.mathworks.com/cn/details/matlab-onramp/gettingstarted)
-- 在线资料 · [MATLAB 帮助中心](https://ww2.mathworks.cn/help/matlab/)
-- 在线资料 · [SciPy User Guide](https://docs.scipy.org/doc/scipy/tutorial/)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [Python 教程](https://docs.python.org/zh-cn/3/tutorial/) | 中文 · Python 3 官方在线文档 · 本科 | 数据结构、函数、模块、文件和异常 | 在线入口 |
+| [Think Python](https://allendowney.github.io/ThinkPython/) | 英文 · 第三版 · 本科 | 函数、迭代、接口、调试和章末练习 | 在线入口 |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [12.010 Computational Methods of Scientific Programming](https://ocw.mit.edu/courses/12-010-computational-methods-of-scientific-programming-fall-2024/) | 英文 · fall 2024 · 本科 | Python、科学程序设计、数值方法与实践 | 在线入口 |
+| [18.335J Introduction to Numerical Methods](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/) | 英文 · spring 2019 · 本科 | 数值稳定性、数值线性代数、快速变换 | 在线入口 |
+| [MATLAB 入门之旅](https://matlabacademy.mathworks.com/cn/details/matlab-onramp/gettingstarted) | 中文 · 本科 | 矩阵、脚本、数据导入与绘图 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [18.335J 数值方法作业](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/pages/resource-index/) | 英文 · spring 2019 · 本科 | 通过课程资源索引访问编程作业 | 在线入口 |
+
+### 在线资料
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [MATLAB 帮助中心](https://ww2.mathworks.cn/help/matlab/) | 中文 · 本科 | 语言语法、线性代数、数值积分、绘图 | 在线入口 |
+| [SciPy User Guide](https://docs.scipy.org/doc/scipy/tutorial/) | 英文 · 本科 | 线性代数、优化、积分、插值、统计和信号 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

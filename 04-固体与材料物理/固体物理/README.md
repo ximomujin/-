@@ -19,6 +19,8 @@ Solid State Physics · 学习阶段 3
 
 ## 公式与推导
 
+[详细推导、例题与自测](../%E7%BB%93%E6%9E%84%E3%80%81%E6%80%A7%E8%83%BD%E4%B8%8E%E5%99%A8%E4%BB%B6.md#%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86)。
+
 一维单原子链的最近邻弹性力为 $K(u_{n+1}+u_{n-1}-2u_n)$。代入 $u_n=Ae^{i(kna-\omega t)}$，得到 $\omega=2\sqrt{K/M}\,|\sin(ka/2)|$，依赖等间距、等原子质量和谐近似。
 
 ## 例题
@@ -37,12 +39,33 @@ $k$ 很小时 $\omega\approx a\sqrt{K/M}|k|$，从色散曲线的长波斜率可
 
 ## 教材索引
 
-- 教材 · [固体物理学](https://hotbook.nbt.edu.cn/nbt/?id=65131&what=detail)
-- 教材 · [University Physics Volume 3](https://openstax.org/books/university-physics-volume-3/pages/1-introduction) · [本地文件](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E5%BC%80%E6%94%BE%E6%95%99%E7%A7%91%E4%B9%A6-%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%8D%B7.pdf)
-- 开放课程 · [8.231 Physics of Solids I](https://ocw.mit.edu/courses/8-231-physics-of-solids-i-fall-2006/)
-- 习题 · [8.231 固体物理问题集](https://ocw.mit.edu/courses/8-231-physics-of-solids-i-fall-2006/pages/assignments/)
-- 开放课程 · [固体物理基础](https://www.icourse163.org/course/SEU-1453159181)
-- 讲义 · [Solid State Physics](https://davidtong.org/teaching/solid-state-physics/)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [固体物理学](https://hotbook.nbt.edu.cn/nbt/?id=65131&what=detail) | 中文 · 1988年版 · 本科 | 晶体结构、晶格振动、能带及输运 | 在线入口 |
+| [University Physics Volume 3](https://openstax.org/books/university-physics-volume-3/pages/1-introduction) | 英文 · 2026 PDF（版权页） · 本科 | Ch. 1–4 光学；Ch. 5–9 现代物理及凝聚态入门；Ch. 10–11 核和粒子入门 | [离线 PDF](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E5%BC%80%E6%94%BE%E6%95%99%E7%A7%91%E4%B9%A6-%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%8D%B7.pdf) |
+
+### 讲义
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [Solid State Physics](https://davidtong.org/teaching/solid-state-physics/) | 英文 · 本科 | 晶格、声子、自由电子和能带 | 在线入口 |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.231 Physics of Solids I](https://ocw.mit.edu/courses/8-231-physics-of-solids-i-fall-2006/) | 英文 · fall 2006 · 本科 | 晶体、声子、自由电子、能带和输运 | 在线入口 |
+| [固体物理基础](https://www.icourse163.org/course/SEU-1453159181) | 中文 · 本科 | 晶格、晶格动力学、电子能带 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.231 固体物理问题集](https://ocw.mit.edu/courses/8-231-physics-of-solids-i-fall-2006/pages/assignments/) | 英文 · fall 2006 · 本科 | 晶格、电子和能带 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

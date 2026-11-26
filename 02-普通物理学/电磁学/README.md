@@ -18,6 +18,9 @@ Electricity and Magnetism · 学习阶段 1
 
 ## 公式与推导
 
+
+[专题推导与习题](%E4%B8%93%E9%A2%98%E6%8E%A8%E5%AF%BC%E4%B8%8E%E4%B9%A0%E9%A2%98.md)提供逐步推导、计算例题和解答。
+
 有球对称性且半径 $r$ 的高斯面包围电荷 $Q$ 时，通量为 $4\pi r^2E$。由高斯定律得 $E=Q/(4\pi\epsilon_0r^2)$，方向取径向。
 
 ## 例题
@@ -36,13 +39,39 @@ Electricity and Magnetism · 学习阶段 1
 
 ## 教材索引
 
-- 教材 · [新概念物理教程 电磁学](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=5c6c3a8ff18f967ee7f37e4e)
-- 教材 · [University Physics Volume 2](https://openstax.org/books/university-physics-volume-2/pages/1-introduction) · [本地文件](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E5%BC%80%E6%94%BE%E6%95%99%E7%A7%91%E4%B9%A6-%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC%E4%BA%8C%E5%8D%B7.pdf)
-- 开放课程 · [8.02 Physics II: Electricity and Magnetism](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/)
-- 习题 · [8.02 电磁学活动练习](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/resources/activity-assignments/)
-- 开放课程 · [大学物理-电磁学和光学](https://www.icourse163.org/course/SDU-97001)
-- 讲义 · [Electromagnetism](https://davidtong.org/teaching/electromagnetism/)
-- 实验指导 · [PhET 物理仿真](https://phet.colorado.edu/zh_CN/simulations/filter?subjects=physics)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [新概念物理教程 电磁学](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=5c6c3a8ff18f967ee7f37e4e) | 中文 · 第三版 · 本科 | 静电场、磁场、介质、电磁感应与麦克斯韦方程 | 在线入口 |
+| [University Physics Volume 2](https://openstax.org/books/university-physics-volume-2/pages/1-introduction) | 英文 · 2026 PDF（版权页） · 本科 | Ch. 1–4 热学；Ch. 5–16 电磁学 | [离线 PDF](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E5%BC%80%E6%94%BE%E6%95%99%E7%A7%91%E4%B9%A6-%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC%E4%BA%8C%E5%8D%B7.pdf) |
+
+### 讲义
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [Electromagnetism](https://davidtong.org/teaching/electromagnetism/) | 英文 · 本科 | 静电与静磁、电磁感应、传播、辐射与电磁学 | 在线入口 |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.02 Physics II: Electricity and Magnetism](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/) | 英文 · Spring 2007 · 本科 | 电场、磁场、电感和电路 | 在线入口 |
+| [大学物理-电磁学和光学](https://www.icourse163.org/course/SDU-97001) | 中文 · 本科 | 静电与磁场、几何与波动光学 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.02 电磁学活动练习](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/resources/activity-assignments/) | 英文 · Spring 2007 · 本科 | 电、磁、感应与电路 | 在线入口 |
+
+### 实验指导
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [PhET 物理仿真](https://phet.colorado.edu/zh_CN/simulations/filter?subjects=physics) | 中文 · 本科 | 力学、电磁、光学和热学的交互观测 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

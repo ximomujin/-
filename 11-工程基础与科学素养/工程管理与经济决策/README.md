@@ -4,6 +4,8 @@ Engineering Management and Economic Decisions · 学习阶段 4
 
 用可核对的工程假设比较资金、项目周期和方案收益。
 
+[本主题的详解与案例](../工程方法与案例.md#工程管理与经济决策)
+
 ## 前置知识
 
 [概率论与数理统计](../../01-%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/README.md)
@@ -36,7 +38,20 @@ Engineering Management and Economic Decisions · 学习阶段 4
 
 ## 教材索引
 
-- 开放课程 · [Engineering Economy](https://ocw.mit.edu/courses/1-011-project-evaluation-spring-2011/)
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [Engineering Economy](https://ocw.mit.edu/courses/1-011-project-evaluation-spring-2011/) | 英文 · 本科 | 项目评价、成本效益及决策 | 在线入口 |
+| [2.830J Control of Manufacturing Processes](https://ocw.mit.edu/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/) | 英文 · spring 2008 · 本科 | 质量控制、抽样、工艺能力与统计过程控制；用标准件重复测量建立基线 | 在线入口 |
+
+### 在线资料
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [Engineering Statistics Handbook: What is Process Capability?](https://www.itl.nist.gov/div898/handbook/pmc/section1/pmc16.htm) | 英文 · 本科 | 第 6.1.6 节 Cₚ 和 Cₚₖ、规格限、估计前提与样本量；先检查过程是否稳定 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

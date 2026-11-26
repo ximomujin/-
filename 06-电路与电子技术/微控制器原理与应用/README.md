@@ -34,10 +34,20 @@ Microcontroller Fundamentals and Applications · 学习阶段 3
 
 实验。保留原理图、代码版本、引脚配置和测试记录。
 
+## 专题讲义
+
+[阅读相关推导、例题与自测](../%E4%BB%8E%E7%94%B5%E8%B7%AF%E6%A8%A1%E5%9E%8B%E5%88%B0%E9%87%87%E6%A0%B7%E6%B5%8B%E9%87%8F.md#%E8%AE%A9%E5%BE%AE%E6%8E%A7%E5%88%B6%E5%99%A8%E9%87%87%E6%A0%B7%E5%8F%AF%E4%BB%A5%E5%A4%8D%E6%A0%B8)。
+
 ## 教材索引
 
-- 在线资料 · [Arduino Built-in Examples](https://docs.arduino.cc/built-in-examples/)
-- 在线资料 · [PIC microcontrollers](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus)
+### 在线资料
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [Arduino Built-in Examples](https://docs.arduino.cc/built-in-examples/) | 英文 · 本科 | GPIO、定时、通信和模拟量读写 | 在线入口 |
+| [PIC microcontrollers](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus) | 英文 · 本科 | 8 位 MCU 器件文档；核查所用芯片的数据手册 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

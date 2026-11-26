@@ -19,6 +19,9 @@ Atomic Physics · 学习阶段 2
 
 ## 公式与推导
 
+
+[专题推导与习题](%E4%B8%93%E9%A2%98%E6%8E%A8%E5%AF%BC%E4%B8%8E%E4%B9%A0%E9%A2%98.md)提供逐步推导、计算例题和解答。
+
 光子能量 $h\nu=hc/\lambda$。忽略氢原子的精细结构等修正，$E_n=-13.6\,\mathrm{eV}/n^2$，从 $n_i$ 向更低 $n_f$ 的跃迁发射能量 $E_{n_i}-E_{n_f}$。
 
 ## 例题
@@ -37,12 +40,33 @@ Atomic Physics · 学习阶段 2
 
 ## 教材索引
 
-- 教材 · [原子物理学](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=61704c8c938b7cc2960edcab)
-- 教材 · [University Physics Volume 3](https://openstax.org/books/university-physics-volume-3/pages/1-introduction) · [本地文件](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E5%BC%80%E6%94%BE%E6%95%99%E7%A7%91%E4%B9%A6-%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%8D%B7.pdf)
-- 开放课程 · [8.04 Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/)
-- 习题 · [8.04 量子物理问题集](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/assignments/)
-- 开放课程 · [原子物理学](https://www.icourse163.org/course/XJTU-1470419181)
-- 在线资料 · [NIST Atomic Spectra Database](https://www.nist.gov/pml/atomic-spectra-database)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [原子物理学](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=61704c8c938b7cc2960edcab) | 中文 · 第五版 · 本科 | 原子结构与光谱、电子自旋、原子壳层 | 在线入口 |
+| [University Physics Volume 3](https://openstax.org/books/university-physics-volume-3/pages/1-introduction) | 英文 · 2026 PDF（版权页） · 本科 | Ch. 1–4 光学；Ch. 5–9 现代物理及凝聚态入门；Ch. 10–11 核和粒子入门 | [离线 PDF](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E5%BC%80%E6%94%BE%E6%95%99%E7%A7%91%E4%B9%A6-%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%8D%B7.pdf) |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.04 Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/) | 英文 · spring 2016 · 本科 | 波函数、势阱、谐振子与原子结构 | 在线入口 |
+| [原子物理学](https://www.icourse163.org/course/XJTU-1470419181) | 中文 · 本科 | 原子模型、多电子原子和现代应用 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.04 量子物理问题集](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/assignments/) | 英文 · spring 2016 · 本科 | 一维量子问题、散射与氢原子相关章节 | 在线入口 |
+
+### 在线资料
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [NIST Atomic Spectra Database](https://www.nist.gov/pml/atomic-spectra-database) | 英文 · 本科 | 原子跃迁波长和能级的实验数据库 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

@@ -34,13 +34,33 @@ C Programming · 学习阶段 1
 
 上机比较不同数据规模的运行时间，使用编译警告排查类型或下标问题。
 
+## 推导与案例
+
+用在线递推计算方差，比较浮点消减与中心化方法。 [推导、案例与练习](推导与案例.md)
+
 ## 教材索引
 
-- 教材 · [C语言程序设计教程](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=59ccd2b8ba9eb884cf818344)
-- 开放课程 · [6.087 Practical Programming in C](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/)
-- 开放课程 · [6.S096 Introduction to C and C++](https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/)
-- 习题 · [6.087 C 语言问题集](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/pages/assignments/)
-- 教材 · [GNU C Language Introduction and Reference Manual](https://www.gnu.org/software/c-intro-and-ref/manual/html_node/)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [C语言程序设计教程](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=59ccd2b8ba9eb884cf818344) | 中文 · 第3版 · 本科 | 控制语句、数组、指针、函数和文件 | 在线入口 |
+| [GNU C Language Introduction and Reference Manual](https://www.gnu.org/software/c-intro-and-ref/manual/html_node/) | 英文 · 本科 | C 语言的控制、数组、内存和指针 | 在线入口 |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [6.087 Practical Programming in C](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/) | 英文 · iap 2010 · 本科 | C 语言、指针、内存管理和模块化 | 在线入口 |
+| [6.S096 Introduction to C and C++](https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/) | 英文 · iap 2013 · 本科 | C 语言和 C++ 扩展 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [6.087 C 语言问题集](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/pages/assignments/) | 英文 · iap 2010 · 本科 | C 编程与调试；含部分外部代码，仅索引 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

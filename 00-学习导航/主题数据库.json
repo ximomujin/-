@@ -83,7 +83,8 @@
       "prerequisites": [],
       "resource_ids": [
         "os-university-physics-volume-1",
-        "cern-particles"
+        "cern-particles",
+        "aapt-lab-recommendations"
       ]
     },
     {
@@ -240,7 +241,8 @@
         "mit805",
         "mit804-ex",
         "mooc-quantum",
-        "tong-quantum"
+        "tong-quantum",
+        "mit805-ex"
       ]
     },
     {
@@ -300,7 +302,9 @@
         "mit8231",
         "mit3012",
         "tong-solid",
-        "libretexts-chem"
+        "libretexts-chem",
+        "mit3012-notes",
+        "mit3012-ex"
       ]
     },
     {
@@ -315,7 +319,9 @@
       ],
       "resource_ids": [
         "mit3012",
-        "libretexts-chem"
+        "libretexts-chem",
+        "mit3012-notes",
+        "mit3012-ex"
       ]
     },
     {
@@ -332,7 +338,9 @@
         "mit8231",
         "mit6012",
         "mit8231-ex",
-        "mit6012-ex"
+        "mit6012-ex",
+        "mit6012-notes",
+        "cn-semiconductor"
       ]
     },
     {
@@ -362,7 +370,8 @@
       "resource_ids": [
         "cn-laser",
         "mit631",
-        "photonics-rp"
+        "photonics-rp",
+        "mit6977-ex"
       ]
     },
     {
@@ -417,7 +426,9 @@
       "resource_ids": [
         "mit803",
         "nist-asd",
-        "photonics-rp"
+        "photonics-rp",
+        "cn-spectroscopy",
+        "mit6637"
       ]
     },
     {
@@ -437,7 +448,11 @@
         "mit6003",
         "mit271-ex",
         "libretexts-wave",
-        "opencourse-comsol-adjacent"
+        "opencourse-comsol-adjacent",
+        "mit6637",
+        "mit6637-ex",
+        "mit6003-notes",
+        "cn-signals"
       ]
     },
     {
@@ -454,7 +469,10 @@
         "mit813-lab",
         "mit631",
         "nist-uncertainty",
-        "photonics-rp"
+        "photonics-rp",
+        "cn-spectroscopy",
+        "mit6637",
+        "mit6637-ex"
       ]
     },
     {
@@ -503,7 +521,8 @@
         "mit6012",
         "mit6012-ex",
         "mooc-analog",
-        "kicad"
+        "kicad",
+        "mit6012-notes"
       ]
     },
     {
@@ -518,7 +537,12 @@
       "resource_ids": [
         "mit6002",
         "mooc-digital",
-        "kicad"
+        "kicad",
+        "cn-digital",
+        "cn-digital-ex",
+        "mit6111",
+        "mit6111-labs",
+        "mit6111-ex"
       ]
     },
     {
@@ -549,7 +573,9 @@
       ],
       "resource_ids": [
         "mit6003",
-        "mit6003-ex"
+        "mit6003-ex",
+        "mit6003-notes",
+        "cn-signals"
       ]
     },
     {
@@ -566,7 +592,8 @@
         "cn-quantum",
         "mit805",
         "mit8370",
-        "tong-quantum"
+        "tong-quantum",
+        "mit805-ex"
       ]
     },
     {
@@ -655,7 +682,9 @@
         "mit12010",
         "python-tutorial",
         "think-python",
-        "scipy"
+        "scipy",
+        "think-python-exercises",
+        "hello-algo"
       ]
     },
     {
@@ -669,7 +698,9 @@
       ],
       "resource_ids": [
         "mit6046",
-        "mit6s096"
+        "mit6s096",
+        "mit6046-ex",
+        "hello-algo"
       ]
     },
     {
@@ -725,7 +756,10 @@
         "mit813",
         "mooc-lab",
         "phet",
-        "nist-uncertainty"
+        "nist-uncertainty",
+        "aapt-lab-recommendations",
+        "nist-measurement-process",
+        "mit8lab-notebooks"
       ]
     },
     {
@@ -745,7 +779,10 @@
         "mit813",
         "mooc-lab",
         "phet",
-        "nist-uncertainty"
+        "nist-uncertainty",
+        "aapt-lab-recommendations",
+        "nist-measurement-process",
+        "mit8lab-notebooks"
       ]
     },
     {
@@ -763,7 +800,9 @@
         "mit813-lab",
         "mit813",
         "mooc-lab",
-        "nist-uncertainty"
+        "nist-uncertainty",
+        "aapt-lab-recommendations",
+        "mit8lab-notebooks"
       ]
     },
     {
@@ -793,7 +832,9 @@
       ],
       "resource_ids": [
         "mit3012",
-        "mit813"
+        "mit813",
+        "mit3012-notes",
+        "mit3012-ex"
       ]
     },
     {
@@ -826,7 +867,10 @@
       "resource_ids": [
         "mit6002",
         "kicad",
-        "opensource-hardware"
+        "opensource-hardware",
+        "mit6111",
+        "mit6111-labs",
+        "mit6111-ex"
       ]
     },
     {
@@ -859,7 +903,8 @@
       "resource_ids": [
         "cn-info-optics",
         "mit271",
-        "opencourse-comsol-adjacent"
+        "opencourse-comsol-adjacent",
+        "mit6637-ex"
       ]
     },
     {
@@ -875,7 +920,11 @@
       "resource_ids": [
         "mit6002",
         "kicad",
-        "opensource-hardware"
+        "opensource-hardware",
+        "cn-digital",
+        "mit6111",
+        "mit6111-labs",
+        "mit6111-ex"
       ]
     },
     {
@@ -906,7 +955,10 @@
         "mit12010",
         "mit6046",
         "python-tutorial",
-        "scipy"
+        "scipy",
+        "mit6046-ex",
+        "think-python-exercises",
+        "hello-algo"
       ]
     },
     {
@@ -920,7 +972,9 @@
       ],
       "resource_ids": [
         "crossref",
-        "wenhua"
+        "wenhua",
+        "wipo-patentscope",
+        "crossref-docs"
       ]
     },
     {
@@ -944,7 +998,10 @@
       "stage": 1,
       "directory": "10-科研与论文写作/应用物理实践入门",
       "prerequisites": [],
-      "resource_ids": []
+      "resource_ids": [
+        "aapt-lab-recommendations",
+        "mit16621"
+      ]
     },
     {
       "id": "技术创新与原型验证",
@@ -953,7 +1010,12 @@
       "stage": 4,
       "directory": "10-科研与论文写作/技术创新与原型验证",
       "prerequisites": [],
-      "resource_ids": []
+      "resource_ids": [
+        "mit16621",
+        "mit2009",
+        "nsf-icorps",
+        "wipo-patentscope"
+      ]
     },
     {
       "id": "实验室项目实践",
@@ -962,7 +1024,13 @@
       "stage": 4,
       "directory": "10-科研与论文写作/实验室项目实践",
       "prerequisites": [],
-      "resource_ids": []
+      "resource_ids": [
+        "aapt-lab-recommendations",
+        "mit16621",
+        "mit16621-data",
+        "nist-measurement-process",
+        "mit8lab-notebooks"
+      ]
     },
     {
       "id": "物理研究与论文写作",
@@ -979,7 +1047,10 @@
         "nist-uncertainty",
         "crossref",
         "mit-comm",
-        "purdue-owl"
+        "purdue-owl",
+        "mit16621-data",
+        "mit8lab-notebooks",
+        "crossref-docs"
       ]
     },
     {
@@ -989,7 +1060,12 @@
       "stage": 4,
       "directory": "10-科研与论文写作/生产流程与量测",
       "prerequisites": [],
-      "resource_ids": []
+      "resource_ids": [
+        "mit16621-data",
+        "mit2830",
+        "nist-measurement-process",
+        "nist-process-capability"
+      ]
     },
     {
       "id": "应用物理研究实践",
@@ -1006,7 +1082,11 @@
         "mit12010",
         "nist-uncertainty",
         "scipy",
-        "crossref"
+        "crossref",
+        "aapt-lab-recommendations",
+        "mit16621",
+        "mit16621-data",
+        "nist-measurement-process"
       ]
     },
     {
@@ -1027,7 +1107,11 @@
       "stage": 4,
       "directory": "11-工程基础与科学素养/科技创新",
       "prerequisites": [],
-      "resource_ids": []
+      "resource_ids": [
+        "mit2009",
+        "nsf-icorps",
+        "wipo-patentscope"
+      ]
     },
     {
       "id": "工程管理与经济决策",
@@ -1039,7 +1123,9 @@
         "概率论与数理统计"
       ],
       "resource_ids": [
-        "iso-management"
+        "iso-management",
+        "mit2830",
+        "nist-process-capability"
       ]
     }
   ]

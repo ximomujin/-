@@ -34,11 +34,31 @@ Introduction to Particle Physics · 学习阶段 3
 
 用公开粒子表核对一个衰变道的质量、寿命和守恒量。
 
+## 专题讲义
+
+[阅读相关推导、例题与自测](../%E9%87%8F%E5%AD%90%E6%B5%8B%E9%87%8F%E3%80%81%E7%BA%A0%E7%BC%A0%E4%B8%8E%E7%B2%92%E5%AD%90%E8%AF%81%E6%8D%AE.md#%E7%94%A8%E5%9B%9B%E5%8A%A8%E9%87%8F%E9%87%8D%E5%BB%BA%E6%AF%8D%E7%B2%92%E5%AD%90)。
+
 ## 教材索引
 
-- 教材 · [University Physics Volume 3](https://openstax.org/books/university-physics-volume-3/pages/1-introduction) · [本地文件](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E5%BC%80%E6%94%BE%E6%95%99%E7%A7%91%E4%B9%A6-%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%8D%B7.pdf)
-- 开放课程 · [8.701 Introduction to Nuclear and Particle Physics](https://ocw.mit.edu/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/)
-- 在线资料 · [The Standard Model](https://home.cern/science/physics/standard-model)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [University Physics Volume 3](https://openstax.org/books/university-physics-volume-3/pages/1-introduction) | 英文 · 2026 PDF（版权页） · 本科 | Ch. 1–4 光学；Ch. 5–9 现代物理及凝聚态入门；Ch. 10–11 核和粒子入门 | [离线 PDF](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E5%BC%80%E6%94%BE%E6%95%99%E7%A7%91%E4%B9%A6-%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%8D%B7.pdf) |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.701 Introduction to Nuclear and Particle Physics](https://ocw.mit.edu/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/) | 英文 · fall 2020 · 本科 | 对称性、粒子分类、散射和衰变 | 在线入口 |
+
+### 在线资料
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [The Standard Model](https://home.cern/science/physics/standard-model) | 英文 · 本科 | 标准模型、基本粒子、相互作用 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

@@ -34,10 +34,32 @@ Algorithms and Data Structures · 学习阶段 2
 
 上机。针对空输入、孤点与重复数据保留测试样例。
 
+## 推导与案例
+
+在带权网格中手算最短路，核对优先队列及复杂度。 [推导、案例与练习](推导与案例.md)
+
 ## 教材索引
 
-- 开放课程 · [6.046J Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
-- 开放课程 · [6.S096 Introduction to C and C++](https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [Hello 算法](https://www.hello-algo.com/) | 中文 · 1.3.0 简体中文 Python 版 · 本科 | 数组与链表、栈与队列、树、哈希、图和复杂度；配合简体中文 Python 版复现书中案例 | [离线 PDF](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E7%AE%97%E6%B3%95%E5%85%A5%E9%97%A8-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E7%89%88.pdf) |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [6.046J Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) | 英文 · spring 2015 · 本科 | 算法复杂度、图、分治和动态规划 | 在线入口 |
+| [6.S096 Introduction to C and C++](https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/) | 英文 · iap 2013 · 本科 | C 语言和 C++ 扩展 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [6.046J Design and Analysis of Algorithms: Assignments](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/pages/assignments/) | 英文 · spring 2015 · 本科 | 复杂度、分治、动态规划和图算法 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

@@ -4,6 +4,8 @@ Scientific Literature Retrieval · 学习阶段 2
 
 从下方知识树开始，完成一个可复现的练习。
 
+[本主题的详解与案例](../研究方法与案例.md#科技文献检索)
+
 ## 前置知识
 
 [物理专业英语](../%E7%89%A9%E7%90%86%E4%B8%93%E4%B8%9A%E8%8B%B1%E8%AF%AD/README.md)
@@ -34,8 +36,16 @@ Scientific Literature Retrieval · 学习阶段 2
 
 ## 教材索引
 
-- 在线资料 · [Crossref Metadata Search](https://search.crossref.org/)
-- 在线资料 · [国家哲学社会科学文献中心](https://www.ncpssd.cn/)
+### 在线资料
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [Crossref Metadata Search](https://search.crossref.org/) | 英文 · 本科 | 按 DOI、题目、作者追踪论文及参考文献 | 在线入口 |
+| [国家哲学社会科学文献中心](https://www.ncpssd.cn/) | 中文 · 本科 | 传统文化及人文社科，论文与文献检索 | 在线入口 |
+| [PATENTSCOPE 国际专利检索](https://www.wipo.int/en/web/patentscope/) | 英文 · 本科 | 按技术关键词和 IPC 分类检索专利；记录技术方案、优先权和法律状态 | 在线入口 |
+| [Crossref Metadata Retrieval](https://www.crossref.org/documentation/retrieve-metadata/) | 英文 · 本科 | DOI、公开元数据、资源检索与参考文献匹配 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

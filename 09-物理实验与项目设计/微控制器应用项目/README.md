@@ -2,7 +2,7 @@
 
 Microcontroller Applications Project · 学习阶段 4
 
-从下方知识树开始，完成一个可复现的练习。
+把按键采样、消抖、事件输出与时序验收写进同一份设计记录。
 
 ## 前置知识
 
@@ -18,11 +18,11 @@ Microcontroller Applications Project · 学习阶段 4
 
 ## 公式与推导
 
-整理相关定义、判断条件与证据。主题以实践流程为主时，记录测量或验收判据。
+每隔 $T_s$ 读取一个 GPIO 样本，若连续 $N$ 个候选值相同则确认状态变化。确认延迟约为 $[(N-1)T_s,NT_s)$，实际边界受调度抖动影响。
 
 ## 例题
 
-将下方练习分成输入、方法和结果三步，写出核验依据。
+采样间隔为 5 ms，要求连续 4 次一致。物理输入稳定后，理想周期采样的确认延迟在 15 至 20 ms 之间。
 
 ## 习题
 
@@ -32,10 +32,20 @@ Microcontroller Applications Project · 学习阶段 4
 
 保存程序、接线和故障复现条件。
 
+## 推导与案例
+
+通过合成 GPIO 波形核对消抖延迟与事件数。 [推导、案例与练习](推导与案例.md)
+
 ## 教材索引
 
-- 在线资料 · [Arduino Built-in Examples](https://docs.arduino.cc/built-in-examples/)
-- 在线资料 · [PIC microcontrollers](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus)
+### 在线资料
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [Arduino Built-in Examples](https://docs.arduino.cc/built-in-examples/) | 英文 · 本科 | GPIO、定时、通信和模拟量读写 | 在线入口 |
+| [PIC microcontrollers](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus) | 英文 · 本科 | 8 位 MCU 器件文档；核查所用芯片的数据手册 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

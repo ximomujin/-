@@ -35,12 +35,38 @@ Special Topics on Quantum Mechanics · 学习阶段 4
 
 绘制二态模型随耦合变化的能级图，检查微扰近似的有效区间。
 
+## 专题讲义
+
+[阅读相关推导、例题与自测](../%E9%87%8F%E5%AD%90%E6%B5%8B%E9%87%8F%E3%80%81%E7%BA%A0%E7%BC%A0%E4%B8%8E%E7%B2%92%E5%AD%90%E8%AF%81%E6%8D%AE.md#%E6%8A%95%E5%BD%B1%E4%B8%8E%E6%B5%8B%E9%87%8F%E5%9F%BA)。
+
 ## 教材索引
 
-- 教材 · [量子力学教程](https://opac.fzu.edu.cn/bookInfo_01h0493100.html)
-- 开放课程 · [8.05 Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/)
-- 开放课程 · [8.370x Quantum Information Science I](https://ocw.mit.edu/courses/8-370x-quantum-information-science-i-spring-2018/)
-- 讲义 · [Quantum Mechanics](https://davidtong.org/teaching/quantum-mechanics/)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [量子力学教程](https://opac.fzu.edu.cn/bookInfo_01h0493100.html) | 中文 · 第二版 · 本科 | 量子力学基本假设、定态、角动量、近似方法 | 在线入口 |
+
+### 讲义
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [Quantum Mechanics](https://davidtong.org/teaching/quantum-mechanics/) | 英文 · 本科 | 量子基础、波函数、角动量与氢原子 | 在线入口 |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.05 Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/) | 英文 · fall 2013 · 本科 | 自旋、角动量、相同粒子和精确解 | 在线入口 |
+| [8.370x Quantum Information Science I](https://ocw.mit.edu/courses/8-370x-quantum-information-science-i-spring-2018/) | 英文 · spring 2018 · 本科 | 量子态、量子门、测量和纠缠 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.05 Quantum Physics II: Assignments](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/assignments/) | 英文 · fall 2013 · 本科 | 对称性、量子运动、角动量与自旋；先完成相关讲义中的例题 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

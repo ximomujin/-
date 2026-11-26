@@ -34,10 +34,20 @@ Integrated Optics Experiments · 学习阶段 3
 
 综合实验。候选预习题和本学期项目单分别记录。
 
+## 推导与案例
+
+由正负一级衍射位置估算波长与几何不确定度。 [推导、案例与练习](推导与案例.md)
+
 ## 教材索引
 
-- 开放课程 · [2.71 Optics](https://ocw.mit.edu/courses/2-71-optics-spring-2014/)
-- 开放课程 · [8.13–8.14 Experimental Physics I & II](https://ocw.mit.edu/courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/)
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [2.71 Optics](https://ocw.mit.edu/courses/2-71-optics-spring-2014/) | 英文 · spring 2014 · 本科 | 几何与波动光学、透镜、傅里叶光学与成像设计 | 在线入口 |
+| [8.13–8.14 Experimental Physics I & II](https://ocw.mit.edu/courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/) | 英文 · spring 2017 · 本科 | 实验记录、误差和校准、现代物理实验 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

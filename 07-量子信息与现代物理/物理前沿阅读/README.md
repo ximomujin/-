@@ -32,9 +32,19 @@ Recent Directions in Physics · 学习阶段 4
 
 按讲次记来源、年度、问题和待核实处。
 
+## 专题讲义
+
+[阅读相关推导、例题与自测](../%E9%87%8F%E5%AD%90%E6%B5%8B%E9%87%8F%E3%80%81%E7%BA%A0%E7%BC%A0%E4%B8%8E%E7%B2%92%E5%AD%90%E8%AF%81%E6%8D%AE.md#%E4%BB%8E%E8%AE%BA%E6%96%87%E4%B8%8E%E7%89%A9%E7%90%86%E5%8F%B2%E6%A0%B8%E9%AA%8C%E8%AF%81%E6%8D%AE)。
+
 ## 教材索引
 
-- 在线资料 · [The Standard Model](https://home.cern/science/physics/standard-model)
+### 在线资料
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [The Standard Model](https://home.cern/science/physics/standard-model) | 英文 · 本科 | 标准模型、基本粒子、相互作用 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

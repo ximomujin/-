@@ -32,14 +32,41 @@ Python Programming · 学习阶段 1
 
 批量整理实验测量、绘图和保存可重跑的计算。
 
-实践为。写入运行命令、输入样例及预期结果。
+用不等间隔读数积分总量，检查采样时间与读数切片的一一对应。运行记录应含输入、单位、边界策略及预期结果。
+
+## 推导与案例
+
+按时间戳处理非等距采样，复算梯形积分并检查异常输入。 [推导、案例与练习](推导与案例.md)
 
 ## 教材索引
 
-- 开放课程 · [12.010 Computational Methods of Scientific Programming](https://ocw.mit.edu/courses/12-010-computational-methods-of-scientific-programming-fall-2024/)
-- 教材 · [Python 教程](https://docs.python.org/zh-cn/3/tutorial/)
-- 教材 · [Think Python](https://allendowney.github.io/ThinkPython/)
-- 在线资料 · [SciPy User Guide](https://docs.scipy.org/doc/scipy/tutorial/)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [Python 教程](https://docs.python.org/zh-cn/3/tutorial/) | 中文 · Python 3 官方在线文档 · 本科 | 数据结构、函数、模块、文件和异常 | 在线入口 |
+| [Think Python](https://allendowney.github.io/ThinkPython/) | 英文 · 第三版 · 本科 | 函数、迭代、接口、调试和章末练习 | 在线入口 |
+| [Hello 算法](https://www.hello-algo.com/) | 中文 · 1.3.0 简体中文 Python 版 · 本科 | 数组与链表、栈与队列、树、哈希、图和复杂度；配合简体中文 Python 版复现书中案例 | [离线 PDF](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E7%AE%97%E6%B3%95%E5%85%A5%E9%97%A8-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E7%89%88.pdf) |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [12.010 Computational Methods of Scientific Programming](https://ocw.mit.edu/courses/12-010-computational-methods-of-scientific-programming-fall-2024/) | 英文 · fall 2024 · 本科 | Python、科学程序设计、数值方法与实践 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [Think Python 课程练习](https://allendowney.github.io/ThinkPython/) | 英文 · 第三版 · 本科 | 使用各章末 Exercises 或 Case Study；先写最小测试，再尝试不同输入验证 | 在线入口 |
+
+### 在线资料
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [SciPy User Guide](https://docs.scipy.org/doc/scipy/tutorial/) | 英文 · 本科 | 线性代数、优化、积分、插值、统计和信号 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

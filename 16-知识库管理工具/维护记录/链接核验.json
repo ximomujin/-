@@ -1,9 +1,9 @@
 {
   "date": "2026-11-26",
   "counts": {
-    "有效": 145,
+    "有效": 174,
     "失效": 0,
-    "待核实": 3
+    "待核实": 7
   },
   "results": [
     {
@@ -122,6 +122,16 @@
       "http": 200
     },
     {
+      "url": "https://github.com/krahets/hello-algo/blob/1.3.0/LICENSE",
+      "status": "有效",
+      "http": 200
+    },
+    {
+      "url": "https://github.com/krahets/hello-algo/releases/download/1.3.0/hello-algo_1.3.0_zh_python.pdf",
+      "status": "有效",
+      "http": 200
+    },
+    {
       "url": "https://home.cern/science/physics/standard-model",
       "status": "有效",
       "http": 200
@@ -163,6 +173,21 @@
     },
     {
       "url": "https://ocw.mit.edu/courses/12-010-computational-methods-of-scientific-programming-fall-2024/",
+      "status": "有效",
+      "http": 200
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/",
+      "status": "有效",
+      "http": 200
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/02a3206095cc01e2f672d10d99bd2947_11_dataanalysis.pdf",
+      "status": "有效",
+      "http": 200
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/11_dataanalysis/",
       "status": "有效",
       "http": 200
     },
@@ -222,6 +247,11 @@
       "http": 200
     },
     {
+      "url": "https://ocw.mit.edu/courses/2-009-product-engineering-process-fall-2021/",
+      "status": "有效",
+      "http": 200
+    },
+    {
       "url": "https://ocw.mit.edu/courses/2-71-optics-spring-2014/",
       "status": "有效",
       "http": 200
@@ -237,7 +267,22 @@
       "http": 200
     },
     {
+      "url": "https://ocw.mit.edu/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/",
+      "status": "有效",
+      "http": 200
+    },
+    {
       "url": "https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/",
+      "status": "有效",
+      "http": 200
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/pages/assignments/",
+      "status": "有效",
+      "http": 200
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/pages/lecture-notes/",
       "status": "有效",
       "http": 200
     },
@@ -257,6 +302,11 @@
       "http": 200
     },
     {
+      "url": "https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/pages/lecture-notes/",
+      "status": "有效",
+      "http": 200
+    },
+    {
       "url": "https://ocw.mit.edu/courses/6-012-microelectronic-devices-and-circuits-fall-2009/",
       "status": "有效",
       "http": 200
@@ -267,7 +317,17 @@
       "http": 200
     },
     {
+      "url": "https://ocw.mit.edu/courses/6-012-microelectronic-devices-and-circuits-fall-2009/pages/lecture-notes/",
+      "status": "有效",
+      "http": 200
+    },
+    {
       "url": "https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/",
+      "status": "有效",
+      "http": 200
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/pages/assignments/",
       "status": "有效",
       "http": 200
     },
@@ -282,7 +342,42 @@
       "http": 200
     },
     {
+      "url": "https://ocw.mit.edu/courses/6-111-introductory-digital-systems-laboratory-spring-2006/",
+      "status": "有效",
+      "http": 200
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/6-111-introductory-digital-systems-laboratory-spring-2006/pages/assignments/",
+      "status": "有效",
+      "http": 200
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/6-111-introductory-digital-systems-laboratory-spring-2006/pages/labs/",
+      "status": "有效",
+      "http": 200
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/6-637-optical-signals-devices-and-systems-spring-2003/",
+      "status": "有效",
+      "http": 200
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/6-637-optical-signals-devices-and-systems-spring-2003/pages/assignments/",
+      "status": "有效",
+      "http": 200
+    },
+    {
       "url": "https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/",
+      "status": "有效",
+      "http": 200
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/f212c9cee3a034d168842fee1ade4517_ps6.pdf",
+      "status": "有效",
+      "http": 200
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/resources/ps6/",
       "status": "有效",
       "http": 200
     },
@@ -357,6 +452,11 @@
       "http": 200
     },
     {
+      "url": "https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/assignments/",
+      "status": "有效",
+      "http": 200
+    },
+    {
       "url": "https://ocw.mit.edu/courses/8-07-electromagnetism-ii-fall-2012/",
       "status": "有效",
       "http": 200
@@ -398,6 +498,11 @@
     },
     {
       "url": "https://ocw.mit.edu/courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/34f0a474943e7e0497460d228cbefd7e_MIT8_13-14F16-S17expI.pdf",
+      "status": "有效",
+      "http": 200
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/pages/requirements-for-experimental-notebooks/",
       "status": "有效",
       "http": 200
     },
@@ -537,12 +642,27 @@
       "http": 200
     },
     {
-      "url": "https://www.gnu.org/software/c-intro-and-ref/",
+      "url": "https://www.aapt.org/Resources/upload/LabGuidlinesDocument_EBendorsed_nov10.pdf",
       "status": "有效",
       "http": 200
     },
     {
+      "url": "https://www.crossref.org/documentation/retrieve-metadata/",
+      "status": "有效",
+      "http": 200
+    },
+    {
+      "url": "https://www.gnu.org/software/c-intro-and-ref/",
+      "status": "有效",
+      "http": 206
+    },
+    {
       "url": "https://www.gnu.org/software/c-intro-and-ref/manual/html_node/",
+      "status": "有效",
+      "http": 206
+    },
+    {
+      "url": "https://www.hello-algo.com/",
       "status": "有效",
       "http": 200
     },
@@ -622,6 +742,16 @@
       "http": 200
     },
     {
+      "url": "https://www.itl.nist.gov/div898/handbook/mpc/mpc.htm",
+      "status": "有效",
+      "http": 200
+    },
+    {
+      "url": "https://www.itl.nist.gov/div898/handbook/pmc/section1/pmc16.htm",
+      "status": "有效",
+      "http": 200
+    },
+    {
       "url": "https://www.kicad.org/libraries/download/",
       "status": "有效",
       "http": 200
@@ -652,6 +782,11 @@
       "http": 200
     },
     {
+      "url": "https://www.nsf.gov/funding/initiatives/i-corps/about-i-corps",
+      "status": "有效",
+      "http": 200
+    },
+    {
       "url": "https://www.openintro.org/book/os/",
       "status": "有效",
       "http": 200
@@ -662,14 +797,19 @@
       "http": 200
     },
     {
-      "url": "https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=59cc1005ba9eb884cf81540e",
+      "url": "https://www.wipo.int/en/web/patentscope/",
       "status": "有效",
-      "http": 206
+      "http": 200
+    },
+    {
+      "url": "https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=59cc1005ba9eb884cf81540e",
+      "status": "待核实",
+      "http": 503
     },
     {
       "url": "https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=59ccd2b8ba9eb884cf818344",
-      "status": "待核实",
-      "http": 503
+      "status": "有效",
+      "http": 200
     },
     {
       "url": "https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=59cd49ceba9eb884cf819b26",
@@ -680,6 +820,11 @@
       "url": "https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=59cd8d4aba9eb884cf81b120",
       "status": "有效",
       "http": 200
+    },
+    {
+      "url": "https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=59cfb25cba9eb884cf82485e",
+      "status": "待核实",
+      "http": 503
     },
     {
       "url": "https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=59fdffdbf18f967ee7f364aa",
@@ -693,8 +838,8 @@
     },
     {
       "url": "https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=5ce43181b0b2bda7c523b60a",
-      "status": "有效",
-      "http": 200
+      "status": "待核实",
+      "http": 503
     },
     {
       "url": "https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=60dee075adb85dae6a2f436f",
@@ -708,18 +853,18 @@
     },
     {
       "url": "https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=61704c8c938b7cc2960edcab",
-      "status": "有效",
-      "http": 200
+      "status": "待核实",
+      "http": 503
     },
     {
       "url": "https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=619e6fa2938b7cc2960edde5",
-      "status": "有效",
-      "http": 200
+      "status": "待核实",
+      "http": 503
     },
     {
       "url": "https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=620150dd938b7cc2960ee60d",
-      "status": "有效",
-      "http": 200
+      "status": "待核实",
+      "http": 503
     },
     {
       "url": "https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=6394bdab938b7cc2960ef587",
@@ -732,9 +877,19 @@
       "http": 200
     },
     {
+      "url": "https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=6620017574ce561611bd9ef6",
+      "status": "有效",
+      "http": 200
+    },
+    {
+      "url": "https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=68a752a0e119ac9729e17c48",
+      "status": "有效",
+      "http": 200
+    },
+    {
       "url": "https://xuanshu.hep.com.cn/front/book/findBookProducts?keyProjectId=6a8dcae7e4b0af79ada1a429&orderType=1&sortType=2",
-      "status": "待核实",
-      "http": 503
+      "status": "有效",
+      "http": 200
     },
     {
       "url": "https://xuanshu.hep.com.cn/front/bookFair/findBookFairDetails?onlineBookFairId=672b181be4b02024dccd5d96",
@@ -743,6 +898,16 @@
     },
     {
       "url": "https://xuanshu.hep.com.cn/front/bookFair/findBookFairDetails?onlineBookFairId=6a169abfe4b058ce920fc09d",
+      "status": "有效",
+      "http": 200
+    },
+    {
+      "url": "https://xuanshu.hep.com.cn/front/h5Mobile/bookDetails?bookId=59cf5a91ba9eb884cf822664",
+      "status": "有效",
+      "http": 200
+    },
+    {
+      "url": "https://xuanshu.hep.com.cn/front/h5Mobile/bookDetails?bookId=67b60fa63e46f5f63ffe3958",
       "status": "有效",
       "http": 200
     }

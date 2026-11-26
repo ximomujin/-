@@ -172,6 +172,60 @@ def generate_indexes(root, _args):
     return 0
 
 
+def synchronize_topic_resources(root, _args):
+    topics = records(root, TOPICS, "courses")
+    resources = records(root, RESOURCES, "resources")
+    topic_by_id = {topic["id"]: topic for topic in topics}
+    if len(topic_by_id) != len(topics):
+        raise ValueError("主题标识重复")
+
+    by_topic = defaultdict(list)
+    for resource in resources:
+        for identifier in dict.fromkeys(resource["applies_to"]):
+            if identifier not in topic_by_id:
+                raise ValueError(f"{resource['id']} 引用了不存在的主题：{identifier}")
+            by_topic[identifier].append(resource)
+
+    categories = ("教材", "讲义", "开放课程", "习题", "实验指导", "在线资料")
+    updates = {}
+    for identifier, topic in topic_by_id.items():
+        readme = repo_path(root, topic["directory"]) / "README.md"
+        content = readme.read_text(encoding="utf-8")
+        before, section, resource_section = content.partition("\n## 教材索引\n")
+        _, next_heading, after = resource_section.partition("\n## ")
+        if not (section and next_heading):
+            raise ValueError(f"{readme.relative_to(root)} 的教材索引须位于两个二级标题之间")
+        topic_resources = by_topic[identifier]
+        topic["resource_ids"] = [resource["id"] for resource in topic_resources]
+        groups = defaultdict(list)
+        for resource in topic_resources:
+            title = markdown_link(resource["title"], resource["official_url"])
+            version = " · ".join(
+                str(resource[field]) for field in ("language", "edition", "difficulty")
+                if resource.get(field)
+            )
+            path = resource.get("path")
+            local = relative_link("离线 PDF", readme, repo_path(root, path)) if path else "在线入口"
+            groups[resource["type"]].append((title, display(version), display(resource["topics"]), local))
+        headers = ("资源", "语言与版本", "对应章节或内容", "获取")
+        parts = [
+            f"### {kind}\n\n" + markdown_table(headers, groups[kind])
+            for kind in dict.fromkeys((*categories, *groups)) if groups[kind]
+        ]
+        catalog = relative_link("完整资源清单", readme, root / RESOURCES)
+        details = "\n\n".join(parts) if parts else "专题资源待补。"
+        updates[readme] = f"{before}{section}\n{details}\n\n授权与文件校验见 {catalog}。\n{next_heading}{after}"
+    for readme, content in updates.items():
+        if readme.read_text(encoding="utf-8") != content:
+            write_text(readme, content)
+    document = read_json(root / TOPICS)
+    if document["courses"] != topics:
+        document["courses"] = topics
+        write_json(root / TOPICS, document)
+    print(f"已同步 {len(topics)} 个主题的资源索引。")
+    return 0
+
+
 def sha256(path):
     digest = hashlib.sha256()
     with path.open("rb") as stream:
@@ -528,6 +582,7 @@ def main():
         return subparser
 
     command("生成索引", "生成主题总索引、阶段索引和学科索引", generate_indexes)
+    command("同步主题资源", "按资源清单同步主题数据库及单科教材索引", synchronize_topic_resources)
     command("生成清单", "生成资源核验索引并验证本地存档", generate_manifest)
     command("核验资源", "检查本地资源的大小、SHA-256 和授权证据字段", validate_resources)
     archive = command("更新存档校验", "为已核实授权的本地资源登记文件校验信息", update_archive)

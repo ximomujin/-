@@ -19,6 +19,9 @@ Quantum Mechanics · 学习阶段 3
 
 ## 公式与推导
 
+
+[专题推导与习题](%E4%B8%93%E9%A2%98%E6%8E%A8%E5%AF%BC%E4%B8%8E%E4%B9%A0%E9%A2%98.md)提供逐步推导、计算例题和解答。
+
 在长度 $L$ 的一维无限深势阱内，定态满足 $-\hbar^2\psi''/(2m)=E\psi$。两端 $\psi=0$ 给波数 $n\pi/L$，所以 $E_n=\hbar^2\pi^2n^2/(2mL^2)$，归一化常数为 $\sqrt{2/L}$。
 
 ## 例题
@@ -37,13 +40,35 @@ Quantum Mechanics · 学习阶段 3
 
 ## 教材索引
 
-- 教材 · [量子力学教程](https://opac.fzu.edu.cn/bookInfo_01h0493100.html)
-- 教材 · [University Physics Volume 3](https://openstax.org/books/university-physics-volume-3/pages/1-introduction) · [本地文件](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E5%BC%80%E6%94%BE%E6%95%99%E7%A7%91%E4%B9%A6-%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%8D%B7.pdf)
-- 开放课程 · [8.04 Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/)
-- 开放课程 · [8.05 Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/)
-- 习题 · [8.04 量子物理问题集](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/assignments/)
-- 开放课程 · [量子力学](https://www.icourse163.org/course/detail.htm?cid=1207236804)
-- 讲义 · [Quantum Mechanics](https://davidtong.org/teaching/quantum-mechanics/)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [量子力学教程](https://opac.fzu.edu.cn/bookInfo_01h0493100.html) | 中文 · 第二版 · 本科 | 量子力学基本假设、定态、角动量、近似方法 | 在线入口 |
+| [University Physics Volume 3](https://openstax.org/books/university-physics-volume-3/pages/1-introduction) | 英文 · 2026 PDF（版权页） · 本科 | Ch. 1–4 光学；Ch. 5–9 现代物理及凝聚态入门；Ch. 10–11 核和粒子入门 | [离线 PDF](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E5%BC%80%E6%94%BE%E6%95%99%E7%A7%91%E4%B9%A6-%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%8D%B7.pdf) |
+
+### 讲义
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [Quantum Mechanics](https://davidtong.org/teaching/quantum-mechanics/) | 英文 · 本科 | 量子基础、波函数、角动量与氢原子 | 在线入口 |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.04 Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/) | 英文 · spring 2016 · 本科 | 波函数、势阱、谐振子与原子结构 | 在线入口 |
+| [8.05 Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/) | 英文 · fall 2013 · 本科 | 自旋、角动量、相同粒子和精确解 | 在线入口 |
+| [量子力学](https://www.icourse163.org/course/detail.htm?cid=1207236804) | 中文 · 本科 | 基本假设、量子态、角动量和表象 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.04 量子物理问题集](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/assignments/) | 英文 · spring 2016 · 本科 | 一维量子问题、散射与氢原子相关章节 | 在线入口 |
+| [8.05 Quantum Physics II: Assignments](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/assignments/) | 英文 · fall 2013 · 本科 | 对称性、量子运动、角动量与自旋；先完成相关讲义中的例题 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

@@ -35,16 +35,41 @@ Physical Optics · 学习阶段 3
 
 将单缝强度截面拟合为 sinc 平方函数；核对背景扣除和原点位置。
 
+## 专题讲义
+
+[阅读相关推导、例题与自测](../%E6%B3%A2%E5%8A%A8%E6%88%90%E5%83%8F%E4%B8%8E%E5%85%89%E7%94%B5%E6%B5%8B%E9%87%8F.md#%E4%BB%8E%E5%AD%94%E5%BE%84%E5%BD%A2%E7%8A%B6%E6%89%BE%E8%A1%8D%E5%B0%84%E5%9B%BE%E6%A0%B7)。
+
 ## 教材索引
 
-- 教材 · [新概念物理教程 光学](https://abook.hep.com.cn/1254524)
-- 教材 · [University Physics Volume 3](https://openstax.org/books/university-physics-volume-3/pages/1-introduction) · [本地文件](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E5%BC%80%E6%94%BE%E6%95%99%E7%A7%91%E4%B9%A6-%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%8D%B7.pdf)
-- 开放课程 · [8.03SC Physics III: Vibrations and Waves](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/)
-- 开放课程 · [2.71 Optics](https://ocw.mit.edu/courses/2-71-optics-spring-2014/)
-- 习题 · [8.03SC 振动与波练习总索引](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/pages/resource-index/)
-- 习题 · [2.71 光学习题](https://ocw.mit.edu/courses/2-71-optics-spring-2014/pages/assignments/)
-- 教材 · [BSc Optics](https://phys.libretexts.org/Bookshelves/Optics/BSc_Optics_(Konijnenberg_Adam_and_Urbach))
-- 在线资料 · [Meep Documentation](https://meep.readthedocs.io/en/latest/)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [新概念物理教程 光学](https://abook.hep.com.cn/1254524) | 中文 · 第二版 · 本科 | 几何光学、干涉、衍射、偏振与现代光学 | 在线入口 |
+| [University Physics Volume 3](https://openstax.org/books/university-physics-volume-3/pages/1-introduction) | 英文 · 2026 PDF（版权页） · 本科 | Ch. 1–4 光学；Ch. 5–9 现代物理及凝聚态入门；Ch. 10–11 核和粒子入门 | [离线 PDF](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E5%BC%80%E6%94%BE%E6%95%99%E7%A7%91%E4%B9%A6-%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%8D%B7.pdf) |
+| [BSc Optics](https://phys.libretexts.org/Bookshelves/Optics/BSc_Optics_%28Konijnenberg_Adam_and_Urbach%29) | 英文 · 本科 | 波动光学、傅里叶光学和光学成像 | 在线入口 |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.03SC Physics III: Vibrations and Waves](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/) | 英文 · fall 2016 · 本科 | 波动方程、振动与光学 | 在线入口 |
+| [2.71 Optics](https://ocw.mit.edu/courses/2-71-optics-spring-2014/) | 英文 · spring 2014 · 本科 | 几何与波动光学、透镜、傅里叶光学与成像设计 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.03SC 振动与波练习总索引](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/pages/resource-index/) | 英文 · fall 2016 · 本科 | 振动、散射、干涉与衍射 | 在线入口 |
+| [2.71 光学习题](https://ocw.mit.edu/courses/2-71-optics-spring-2014/pages/assignments/) | 英文 · spring 2014 · 本科 | 折射与成像、干涉、多缝衍射、傅里叶光学 | 在线入口 |
+
+### 在线资料
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [Meep Documentation](https://meep.readthedocs.io/en/latest/) | 英文 · 本科 | 光传播、衍射和 FDTD 演示；对应课程只作数值拓展。 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

@@ -18,6 +18,9 @@ Thermal Physics · 学习阶段 1
 
 ## 公式与推导
 
+
+[专题推导与习题](%E4%B8%93%E9%A2%98%E6%8E%A8%E5%AF%BC%E4%B8%8E%E4%B9%A0%E9%A2%98.md)提供逐步推导、计算例题和解答。
+
 按系统对外做功为正，第一定律 $dU=\delta Q-p\,dV$ 适用于准静态仅做体积功的过程。理想气体等温时 $dU=0$，故 $Q=W=nRT\ln(V_2/V_1)$。
 
 ## 例题
@@ -36,12 +39,33 @@ $1\,\mathrm{mol}$ 理想气体在 $300\,\mathrm K$ 可逆等温膨胀至两倍�
 
 ## 教材索引
 
-- 教材 · [普通物理学教程 热学](https://2d.hep.com.cn/12530110/1984556)
-- 教材 · [University Physics Volume 2](https://openstax.org/books/university-physics-volume-2/pages/1-introduction) · [本地文件](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E5%BC%80%E6%94%BE%E6%95%99%E7%A7%91%E4%B9%A6-%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC%E4%BA%8C%E5%8D%B7.pdf)
-- 开放课程 · [8.044 Statistical Physics I](https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/)
-- 习题 · [8.044 统计物理问题集](https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/pages/assignments/)
-- 开放课程 · [大学物理-力学和热学](https://www.icourse163.org/course/SDU-96002)
-- 实验指导 · [PhET 物理仿真](https://phet.colorado.edu/zh_CN/simulations/filter?subjects=physics)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [普通物理学教程 热学](https://2d.hep.com.cn/12530110/1984556) | 中文 · 第四版 · 本科 | 分子动理论、热力学定律、气体和相变 | 在线入口 |
+| [University Physics Volume 2](https://openstax.org/books/university-physics-volume-2/pages/1-introduction) | 英文 · 2026 PDF（版权页） · 本科 | Ch. 1–4 热学；Ch. 5–16 电磁学 | [离线 PDF](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E5%BC%80%E6%94%BE%E6%95%99%E7%A7%91%E4%B9%A6-%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC%E4%BA%8C%E5%8D%B7.pdf) |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.044 Statistical Physics I](https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/) | 英文 · spring 2013 · 本科 | 热力学、配分函数及经典和量子统计 | 在线入口 |
+| [大学物理-力学和热学](https://www.icourse163.org/course/SDU-96002) | 中文 · 本科 | 质点、动量、功与能、气体及热力学 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.044 统计物理问题集](https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/pages/assignments/) | 英文 · spring 2013 · 本科 | 热力学、统计分布和热力学量 | 在线入口 |
+
+### 实验指导
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [PhET 物理仿真](https://phet.colorado.edu/zh_CN/simulations/filter?subjects=physics) | 中文 · 本科 | 力学、电磁、光学和热学的交互观测 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

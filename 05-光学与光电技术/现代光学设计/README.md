@@ -35,14 +35,39 @@ $s=2f$ 时近轴成像为 $s'=2f$，横向放大率 $-1$。
 
 用光线追迹比较近轴近似与大角度光线的像点差异。
 
+## 专题讲义
+
+[阅读相关推导、例题与自测](../%E6%B3%A2%E5%8A%A8%E6%88%90%E5%83%8F%E4%B8%8E%E5%85%89%E7%94%B5%E6%B5%8B%E9%87%8F.md#%E4%BB%8E%E5%85%89%E7%BA%BF%E4%BC%A0%E6%92%AD%E6%89%BE%E5%83%8F%E9%9D%A2)。
+
 ## 教材索引
 
-- 开放课程 · [2.71 Optics](https://ocw.mit.edu/courses/2-71-optics-spring-2014/)
-- 习题 · [2.71 光学习题](https://ocw.mit.edu/courses/2-71-optics-spring-2014/pages/assignments/)
-- 教材 · [BSc Optics](https://phys.libretexts.org/Bookshelves/Optics/BSc_Optics_(Konijnenberg_Adam_and_Urbach))
-- 在线资料 · [2.71 光学教学大纲](https://ocw.mit.edu/courses/2-71-optics-spring-2014/pages/syllabus/)
-- 在线资料 · [Meep Documentation](https://meep.readthedocs.io/en/latest/)
-- 在线资料 · [RP Photonics Encyclopedia](https://www.rp-photonics.com/encyclopedia.html)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [BSc Optics](https://phys.libretexts.org/Bookshelves/Optics/BSc_Optics_%28Konijnenberg_Adam_and_Urbach%29) | 英文 · 本科 | 波动光学、傅里叶光学和光学成像 | 在线入口 |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [2.71 Optics](https://ocw.mit.edu/courses/2-71-optics-spring-2014/) | 英文 · spring 2014 · 本科 | 几何与波动光学、透镜、傅里叶光学与成像设计 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [2.71 光学习题](https://ocw.mit.edu/courses/2-71-optics-spring-2014/pages/assignments/) | 英文 · spring 2014 · 本科 | 折射与成像、干涉、多缝衍射、傅里叶光学 | 在线入口 |
+
+### 在线资料
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [2.71 光学教学大纲](https://ocw.mit.edu/courses/2-71-optics-spring-2014/pages/syllabus/) | 英文 · Spring 2014 · 本科 | 几何光学与波动光学 | 在线入口 |
+| [Meep Documentation](https://meep.readthedocs.io/en/latest/) | 英文 · 本科 | 光传播、衍射和 FDTD 演示；对应课程只作数值拓展。 | 在线入口 |
+| [RP Photonics Encyclopedia](https://www.rp-photonics.com/encyclopedia.html) | 英文 · 本科 | 激光束、光谱、探测器和激光加工术语与公式 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

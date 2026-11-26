@@ -34,11 +34,37 @@ Information Optics Project · 学习阶段 4
 
 注明物面、傅里叶面坐标和采样间隔。
 
+## 推导与案例
+
+依据 DFT 网格复算傅里叶面首个衍射零点。 [推导、案例与练习](推导与案例.md)
+
 ## 教材索引
 
-- 教材 · [光学信息技术原理及应用](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=59cd49ceba9eb884cf819b26)
-- 开放课程 · [2.71 Optics](https://ocw.mit.edu/courses/2-71-optics-spring-2014/)
-- 在线资料 · [Meep Documentation](https://meep.readthedocs.io/en/latest/)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [光学信息技术原理及应用](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=59cd49ceba9eb884cf819b26) | 中文 · 第2版 · 本科 | 傅里叶光学、光学信息处理、全息 | 在线入口 |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [2.71 Optics](https://ocw.mit.edu/courses/2-71-optics-spring-2014/) | 英文 · spring 2014 · 本科 | 几何与波动光学、透镜、傅里叶光学与成像设计 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [6.637 Optical Signals, Devices, and Systems: Assignments](https://ocw.mit.edu/courses/6-637-optical-signals-devices-and-systems-spring-2003/pages/assignments/) | 英文 · spring 2003 · 本科 | 光信号、传播、光纤和探测相关作业；少量题目依赖指定教材 | 在线入口 |
+
+### 在线资料
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [Meep Documentation](https://meep.readthedocs.io/en/latest/) | 英文 · 本科 | 光传播、衍射和 FDTD 演示；对应课程只作数值拓展。 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

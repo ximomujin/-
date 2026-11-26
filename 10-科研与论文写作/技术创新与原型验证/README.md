@@ -4,6 +4,8 @@ Technology Innovation and Prototype Validation · 学习阶段 4
 
 从下方知识树开始，完成一个可复现的练习。
 
+[本主题的详解与案例](../研究方法与案例.md#技术创新与原型验证)
+
 ## 前置知识
 
 专业课程基础、项目沟通与协作
@@ -34,7 +36,21 @@ Technology Innovation and Prototype Validation · 学习阶段 4
 
 ## 教材索引
 
-专题资源尚待补充，先查看下列参考来源。
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [16.621 Experimental Projects I](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/) | 英文 · spring 2003 · 本科 | 研究问题、测量系统、数据分析与实验提案；按课程大纲从问题定义走到实验设计 | 在线入口 |
+| [2.009 Product Engineering Process](https://ocw.mit.edu/courses/2-009-product-engineering-process-fall-2021/) | 英文 · fall 2021 · 本科 | 用户需求、设计概念、原型迭代与演示；把原型通过判据写成可测量指标 | 在线入口 |
+
+### 在线资料
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [NSF I-Corps 客户发现与成果转化框架](https://www.nsf.gov/funding/initiatives/i-corps/about-i-corps) | 英文 · 本科 | 客户发现、技术可转化性和团队角色；用访谈和简单实验验证场景假设 | 在线入口 |
+| [PATENTSCOPE 国际专利检索](https://www.wipo.int/en/web/patentscope/) | 英文 · 本科 | 按技术关键词和 IPC 分类检索专利；记录技术方案、优先权和法律状态 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

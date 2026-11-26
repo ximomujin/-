@@ -19,6 +19,9 @@ Thermodynamics and Statistical Physics · 学习阶段 2
 
 ## 公式与推导
 
+
+[专题推导与习题](%E4%B8%93%E9%A2%98%E6%8E%A8%E5%AF%BC%E4%B8%8E%E4%B9%A0%E9%A2%98.md)提供逐步推导、计算例题和解答。
+
 系统与大热库交换能量时，热库熵在平衡点附近展开为 $S_\mathrm{bath}(E_\mathrm{tot}-E_i)\approx S_0-E_i/T$。微观态权重因此正比于 $e^{-\beta E_i}$，除以 $Z=\sum_i e^{-\beta E_i}$ 得归一化概率。
 
 ## 例题
@@ -37,13 +40,34 @@ Thermodynamics and Statistical Physics · 学习阶段 2
 
 ## 教材索引
 
-- 教材 · [热力学·统计物理](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=5ce43181b0b2bda7c523b60a)
-- 教材 · [University Physics Volume 2](https://openstax.org/books/university-physics-volume-2/pages/1-introduction) · [本地文件](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E5%BC%80%E6%94%BE%E6%95%99%E7%A7%91%E4%B9%A6-%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC%E4%BA%8C%E5%8D%B7.pdf)
-- 讲义 · [8.044 Statistical Physics I: Lecture 1](https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/resources/lecture-notes/) · [本地文件](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86%E7%AC%AC%E4%B8%80%E8%AE%B2-%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2.pdf)
-- 开放课程 · [8.044 Statistical Physics I](https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/)
-- 习题 · [8.044 统计物理问题集](https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/pages/assignments/)
-- 开放课程 · [热力学与统计物理](https://www.icourse163.org/course/detail.htm?cid=1450300364)
-- 讲义 · [Statistical Physics](https://davidtong.org/teaching/statistical-physics/)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [热力学·统计物理](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=5ce43181b0b2bda7c523b60a) | 中文 · 第六版 · 本科 | 热力学关系、相平衡、经典和量子统计分布 | 在线入口 |
+| [University Physics Volume 2](https://openstax.org/books/university-physics-volume-2/pages/1-introduction) | 英文 · 2026 PDF（版权页） · 本科 | Ch. 1–4 热学；Ch. 5–16 电磁学 | [离线 PDF](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E5%BC%80%E6%94%BE%E6%95%99%E7%A7%91%E4%B9%A6-%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC%E4%BA%8C%E5%8D%B7.pdf) |
+
+### 讲义
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.044 Statistical Physics I: Lecture 1](https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/resources/lecture-notes/) | 英文 · spring 2013 · 本科 | 统计物理问题与概率复习 | [离线 PDF](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86%E7%AC%AC%E4%B8%80%E8%AE%B2-%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2.pdf) |
+| [Statistical Physics](https://davidtong.org/teaching/statistical-physics/) | 英文 · 本科 | 第 1–5 章；配分函数、经典气体、量子气体、相变 | 在线入口 |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.044 Statistical Physics I](https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/) | 英文 · spring 2013 · 本科 | 热力学、配分函数及经典和量子统计 | 在线入口 |
+| [热力学与统计物理](https://www.icourse163.org/course/detail.htm?cid=1450300364) | 中文 · 本科 | 热力学与统计系综 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [8.044 统计物理问题集](https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/pages/assignments/) | 英文 · spring 2013 · 本科 | 热力学、统计分布和热力学量 | 在线入口 |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

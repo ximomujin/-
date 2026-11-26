@@ -19,6 +19,9 @@ Linear Algebra · 学习阶段 1
 
 ## 公式与推导
 
+
+[专题推导与习题](%E4%B8%93%E9%A2%98%E6%8E%A8%E5%AF%BC%E4%B8%8E%E4%B9%A0%E9%A2%98.md)提供逐步推导、计算例题和解答。
+
 最小二乘残差 $r=b-Ax$ 应与 $A$ 的列空间正交。于是 $A^\mathsf{T}(b-Ax)=0$。当列满秩时，方程 $A^\mathsf{T}Ax=A^\mathsf{T}b$ 具有唯一解。
 
 ## 例题
@@ -37,11 +40,27 @@ Linear Algebra · 学习阶段 1
 
 ## 教材索引
 
-- 教材 · [工程数学 线性代数](https://xuanshu.hep.com.cn/front/book/findBookProducts?keyProjectId=6a8dcae7e4b0af79ada1a429&orderType=1&sortType=2)
-- 教材 · [Linear Algebra](https://jheffero.w3.uvm.edu/linearalgebra/index.html) · [本地文件](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0-%E8%B5%AB%E5%BC%97%E4%BC%A6-%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)
-- 习题 · [Answers to Exercises for Linear Algebra](https://jheffero.w3.uvm.edu/linearalgebra/index.html) · [本地文件](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E4%B9%A0%E9%A2%98%E8%AF%A6%E8%A7%A3-%E8%B5%AB%E5%BC%97%E4%BC%A6-%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)
-- 开放课程 · [18.06 Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
-- 开放课程 · [线性代数](https://www.icourse163.org/course/TONGJI-481001)
+### 教材
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [工程数学 线性代数](https://xuanshu.hep.com.cn/front/book/findBookProducts?keyProjectId=6a8dcae7e4b0af79ada1a429&orderType=1&sortType=2) | 中文 · 第七版 · 本科 | 行列式、矩阵、线性方程组、特征值、二次型 | 在线入口 |
+| [Linear Algebra](https://jheffero.w3.uvm.edu/linearalgebra/index.html) | 英文 · 第四版 · 本科 | 章节 1–5；线性方程组、向量空间、线性映射、行列式、相似性 | [离线 PDF](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0-%E8%B5%AB%E5%BC%97%E4%BC%A6-%E7%AC%AC%E5%9B%9B%E7%89%88.pdf) |
+
+### 开放课程
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [18.06 Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) | 英文 · spring 2010 · 本科 | 线性方程组、正交与投影、特征值 | 在线入口 |
+| [线性代数](https://www.icourse163.org/course/TONGJI-481001) | 中文 · 本科 | 矩阵、线性方程组与特征值 | 在线入口 |
+
+### 习题
+
+| 资源 | 语言与版本 | 对应章节或内容 | 获取 |
+| --- | --- | --- | --- |
+| [Answers to Exercises for Linear Algebra](https://jheffero.w3.uvm.edu/linearalgebra/index.html) | 英文 · 第四版 · 本科 | 章节 1–5；线性方程组、向量空间、线性映射、行列式、相似性 | [离线 PDF](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E5%BC%80%E6%94%BE%E6%8E%88%E6%9D%83%E6%96%87%E4%BB%B6/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E4%B9%A0%E9%A2%98%E8%AF%A6%E8%A7%A3-%E8%B5%AB%E5%BC%97%E4%BC%A6-%E7%AC%AC%E5%9B%9B%E7%89%88.pdf) |
+
+授权与文件校验见 [完整资源清单](../../12-%E6%95%99%E6%9D%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.json)。
 
 ## 参考来源
 

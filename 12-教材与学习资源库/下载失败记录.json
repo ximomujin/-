@@ -1,0 +1,11 @@
+{
+  "failures": [
+    {
+      "url": "https://www.openintro.org/book/os/",
+      "reason": "当前运行环境无法获取官方 PDF，保留入口。",
+      "id": "openintro",
+      "attempted_date": "2026-11-26",
+      "retry_result": "保留官方入口，离线文件待补。"
+    }
+  ]
+}
